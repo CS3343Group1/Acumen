@@ -1,0 +1,28 @@
+Facebook will now deliver targeted advertisements to practically any smartphone app, after unveiling a mobile ad network at its F8 developer conference in San Francisco.
+
+“This is the first time we’re going to help you to monetize in a serious way on mobile,” CEO Mark Zuckerberg said during his keynote speech.
+
+The news was part of a sweeping set of announcements at the conference, which seems to represent the beginning of a new phase for the social networking giant. As Zuckerberg foretold in discussions with WIRED before the conference, he distanced himself from the “move fast and break things” philosophy he espoused when taking the company public, and the company unveiled several new tools that help outsiders build mobile apps. The company is not just expanding its ad empire onto the larger world of apps. It’s trying to engender new trust for the company among app makers as well as users.
+
+The Ad Network
+Known as the Facebook Audience Network, the new ad network connects Facebook’s one million advertisers with mobile apps developed by any independent third party. Facebook paints the ads as unobtrusive, and it says that they will be closely targeted to individual smartphone users. Because Facebook houses a deep library for information about hundreds of millions of people across the globe — likes and interests, online activity, offline physical movements, demographics, and even grocery shopping habits — it can, in theory, target ads with more precision than competing networks like Google’s AdMob.
+
+The network promises to accelerate the social network’s gains on Google as a leading distributor of internet advertising, and it may help app developers pull in additional revenues. Targeted ads often make more money.
+
+Facebook revealed that it was testing an ad network in January. Then, in March, the company hinted it would take the network public at F8. On stage today in San Francisco, Facebook’s Deborah Liu, who helps run social commerce and platform monetization efforts, said the company’s offering is informed by its own experience over the past two years, in which it went from zero mobile advertising to deriving nearly 60 percent of revenue from mobile ads.
+
+Along the way, she said, Facebook learned that mobile ads should be deeply integrated into the flow of an app, non-disruptive, and, in the end, a “net plus” for the end user. This same thinking, she said, is now baked into the new ad network. “We are bringing together the most demand, the best targeting system, and today we bring you in,” Liu said. “With a few lines of code, you can have really relevant ads that come into your system.”
+
+The Zuckerberg Way
+Separately, Zuckerberg made a string of announcements that show Facebook is committed to moving past the often reckless, by-the-seat-of-its pants ways that previously characterized its business. With Facebook having just turned 10 years old — and Zuckerberg turning 30 in the next couple of weeks — the company is taking a more mature approach.
+
+Today, Zuckerberg said, the company is shifting its focus from the hackers who work at Facebook to the users who must make the most of the company’s often unfinished products. “We have this really strong hacker culture at Facebook, and it’s helped us accomplish so much, and connect so many different people,” Zuckerberg said. “But the hacker culture is focused on us, the way we do things — it’s not really that focused on the people serve…My goal for out culture over the next 10 years is to build a culture of loving the people we serve that’s as strong if not stronger than our culture of hacking.”
+
+To underline this new priority, Zuckebrerg unveiled a new set of privacy practices for apps that connect to Facebook. Such apps will no longer be able to get information on the friends of a user who has authorized the app, unless those friends have also authorized the apps. Also, when giving an app permission to read or write to their Facebook profle, users can now drill down and disable specific kinds of sharing with the app — birthday, likes, email address, friends list, and public profile can all be individually controlled at the moment the app is being authorized to connect to the user’s Facebook account. Users also gain the ability to connect anonymously to third party apps using Facebook.
+
+As it drops the “move fast and break things” philosophy, Facebook is also trying to move more deliberately in order to provide more stability for developers on its platforms and for users of apps that build on its platform. For example, the company now guarantees that it will support particular programming calls in its core programming interface, or API, for at least two years. It also promised to fix all major platform bugs within 48 hours. Furthermore, the company is now “versioning” its API, meaning that developers can more seamlessly keep using an older API even after a new one is released.
+
+A Web of Apps
+Facebook also unveiled a “Like” button that can be embedded in third-party apps, and it introduced a new scheme design to link mobile apps in the same way we link webpages today. Known as AppLinks, the scheme includes a set of open standards and an open source software development kit, according to Ilya Sukhar, head of product for Facebook developer services.
+
+Many apps are already using the tools, including Spotify, Flickr, Mailbox, Hulu, Tumblr, Vimeo, and Goodreads. The scheme is yet another way that Facebook is trying play nicely with that larger world of smartphones and smartphones users. That is the near future of Facebook.
