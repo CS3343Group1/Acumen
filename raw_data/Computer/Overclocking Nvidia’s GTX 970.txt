@@ -1,0 +1,25 @@
+Overclocking Nvidia’s GTX 970: GTX 980 performance, for a fraction the price
+
+Whenever a new CPU or GPU architecture hits the market, enthusiasts are always curious whether or not lower-end models can be tweaked to hit the same performance as their high-end brethren. In the case of Nvidia’s new Maxwell architecture, we have an already-high performing architecture with relatively low temperatures and quiet operating specs. Toss in a card like the Zotac GTX 970 we reviewed last week, and you’ve got a great potential recipe for overclocking gains.
+
+The Zotac GeForce GTX 970 Amp! Omega Edition is designed for high overclocking performance, with two eight-pin PCI Express connectors rather than the dual six-pin design that our Nvidia reference card uses. Can it deliver higher overall performance? Let’s find out.
+
+Why the GTX 970 is a great overclocking choice
+
+In order to be a serious hit with overclockers, hardware needs to offer an excellent price/performance ratio that doesn’t come with hidden gotchas. The first Celerons were famously good overclockers because they could equal or even best the Pentium II and Pentium III chips of the day. AMD’s later Durons were again excellent in this regard — a Duron 600 could often hit 1GHz — and, with a bit of pencil voltage modding, could run far above 100MHz FSB clocks without a hitch.
+
+The GTX 970, with an MSRP of $330, is more than $200 cheaper than the GTX 980 (MSRP $550), but packs just as much RAM (4GB). We’re at the beginning of a transition to 4K gaming, which makes larger frame buffers particularly important — and while you’ll still need two cards to run at high frame rates acceptably, being on the cusp of that transition makes every additional frame per second count. As with our official Maxwell review, our tests will be run at maximum detail with high levels of AA at both 1080p and 4K.
+
+Overclocking made easy
+
+Overclocking the GTX 970 is about as simple as it gets. Zotac has its own Firestorm application, but EVGA’s Precision and MSI Afterburner all work as well, with no difference in final results. Of the three, I personally prefer Afterburner — Precision is incredibly difficult to read (Firestorm is better, but copying Precision is a bad idea). This new UI appears to be a recent edition; the screenshots posted to the Firestorm download site are modeled after Afterburner. The latter, while scarcely an example of Jobsian design philosophy, at least puts the most common controls into an understandable layout.
+
+Whichever application you prefer, overclocking the GPU is as simple as punching in a desired clock frequency and hitting ok. Voltage increases may be minimally effective for improving card clocking, but we didn’t see much benefit from it. Increasing the power envelope automatically increases the maximum target temperature — pushing up to 106% (up from 100%) also increases the maximum GPU temperature to 91C. This appears to be an Nvidia-mandated change; our GTX 980 shows evidence of similar behavior.
+
+After testing, our Zotac GTX 970 stabilized at a core clock increase of +228MHz (1469MHz) with a +12mV voltage tap and a memory clock speed increase of 100MHz (1862MHz). That’s an increase of 18% core clock and 5% memory — we didn’t push the RAM particularly hard because increasing memory bandwidth proved to have a limited impact on most games.
+
+Cranking up the GPU clock, on the other hand, yields significant results. Below, we’ve included some of our game tests with the Zotac GTX 970 graphed against Nvidia’s stock GTX 980. Test results are shown below.
+
+The conclusion here is obvious. When overclocked, the Zotac GTX 970 Amp Omega is capable of closing to within 2-3% of the GTX 980 on average. The gap is slightly larger in 4K than in 1080p, where the increased number of texture mapping units and cores come into play, but the two GPUs are nearly neck and neck. Granted, we saw AMD take a similar strategy with the R9 290 and R9 290X, but this time around the Nvidia GPUs are in the driver’s seat — and they don’t come with the same heat concerns.
+
+The GTX 980 is also rumored to overclock well, so gamers who want the absolute best performance will still find it there — but the overclockability of the GTX 970 means that the top tier of performance is available to gamers without paying anything like top prices.

@@ -1,0 +1,13 @@
+Smart tattoo generates electricity from sweat, could power future wearable computers
+
+Smart tattoos are the hottest thing since mood rings. When they become commonplace, they will be a great way to eavesdrop on both vital signs and not-so-vital signs. The only thing that seems to be holding them back, is getting power to them. Joseph Wang, a researchers from UCSD, has now come up with a way to generate power for these devices without using any external equipment. The secret, is to harness electrons from lactate acid secreted in sweat.
+
+The muscle “burn” we feel when exercising to exhaustion has been commonly associated with the buildup of lactic acid. For muscle, lactate is a waste product, a metabolic endpoint from which there is no escape. The brain, on the other hand, thrives on lactate. As far as the muscle is concerned, the brain is its metabolic trashman.
+
+Exercise physiologists, quite naturally, have sought to measure lactate levels in the muscle or blood. When lactate was discovered to be released in sweat, a new sensor technology was born. Wang has taken the next logical step of adding provisions to accumulate charge when lactate is enzymatically sensed. By embedding enzymes that process lactate into the tattoo, he was able to extract 70 microwatts per cm² of skin.
+
+That measure may be a bit misleading, because the actual device was only a few millimeters in size and so only made about 4 microwatts. Technically speaking, if you want to say that you made $1,000 per hour during the hour that you got your paycheck for the week, who can fault you if you can scale that? The catch with this tattoo is that you need to be hot — as in pedaling your heart out on a bike for 30 minutes — to get the lactate out. That, however, may not be the death knell for such a technology.
+
+One could imagine selectively activating the sympathetic nerves that control the sweat glands in a discrete patch of skin. That way, you override the normal control and can sweat without the heat or exertion. The other part of the puzzle would be to actually generate the lactic acid. Preferably, this would be done locally as well, rather than having to have high levels circulating in the blood.
+
+Other researchers have already imagined e-tattoos to read your thoughts and desires. This concept is not your grandma’s skin conductance, but rather a sophisticated electronic package with on-board signal processing and communications. With a discrete way to power such devices, a formidable tool for self discovery might be had.
