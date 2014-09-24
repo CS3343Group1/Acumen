@@ -1,0 +1,9 @@
+Security and personal privacy have become rather important topics in the world of smartphones of late. Apple's CEO Tim Cook gave his thoughts earlier this week on the issue, and now Google's working to make Android more secure.
+The search giant has told the Washington Post that the next generation of its mobile OS, the as-yet-unnamed Android L, will encrypt data automatically for the first time. Previously, users of Android had to activate optional encryption on their handsets.
+What is particularly pertinent about this is Google says even law enforcement types won't be able to access the photos, messages and videos stored on an encrypted device. Apple made a similar feature a cornerstone of iOS 8, and assured users that the company itself could not turn over any personal data to the fuzz.
+The move from both companies is in response to the NSA practices revealed by Edward Snowden last year.
+Lock and key
+According to Google, the aim of making Android - the world's most popular mobile OS - more secure has been in the pipeline for months.
+"For over three years Android has offered encryption, and keys are not stored off of the device, so they cannot be shared with law enforcement," said Niki Christoff, a spokesperson for Google.
+"As part of our next Android release, encryption will be enabled by default out of the box, so you won't even have to think about turning it on."
+The next version of Android is expected in October, although historically it takes Android far longer than iOS to achieve mass uptake of a new version due to the volume and differentiation of the devices.

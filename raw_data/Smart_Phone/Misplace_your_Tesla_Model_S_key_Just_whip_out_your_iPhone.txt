@@ -1,0 +1,8 @@
+The iPhone 5S will soon have a new party trick up its sleeve - letting you open your car and start it with a tap.
+Electrek reports Tesla is rolling out an OS 6.0 software update to its Model S vehicles. The most notable feature in the update log suggests keyless entry and ignition start for iPhone users.
+Supposedly the new software will allow the Apple smartphone to unlock and start their car in case they forget or misplace their regular key fob.
+The documentation doesn't explain how this keyless start and entry would work. However a few solutions like it already exist, including a Lexus-developed app and another third-party app called Viper (not the muscle car).
+The update log also mentions an Android update is on the way.
+Tight integration
+Aside from the keyless entry and start, the update will also integrate your iPhone calendar with the car's dashboard computer. Meanwhile, an improved navigation system will redirect drivers away from roads it predicts are congested.
+It's not Apple CarPlay or Android's auto-enabled technology, but Tesla is clearly paving its own way to integrate smartphones more closely with its automobiles.
