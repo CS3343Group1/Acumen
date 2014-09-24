@@ -1,0 +1,15 @@
+Australia mulls requiring OpenDocument Format compatibility
+Australia would follow a number of European countries in mandating support for open standards
+Australia's government may mandate that its agencies use software compatible with OpenDocument Format (ODF), an international file standard.
+The country's government agencies mostly use Microsoft's Office software, but support for an open standard eliminates the "potential for a vendor ending support for specific format," wrote John Sheridan, Australia's chief technical officer.
+If the draft proposal is approved, however, government agencies would not be required to work only with ODF documents, Sheridan wrote. The proposal is now open for comments and will eventually be taken up by the Secretaries' ICT Governance Board for approval.
+If ODF support is mandated, Australia would follow a number of European countries that have required that government agencies be able to use open file standards.
+ODF was approved as an international standard in May 2006. It is an XML (Extensible Markup Language) file format that sprang from OpenOffice, a free, open-source office application suite. The standard is open and can be implemented by any software vendor.
+The standard is supported in Google Docs, Lotus Symphony, OpenOffice, StarOffice as well as later versions of Microsoft's Office.
+Sheridan wrote that agencies shouldn't have a problem supporting it. He wrote that Microsoft Office has provided native support for ODF in Office versions beyond Office 2007 SP2.
+The draft proposal is part of Australia's Whole-of-Government Common Operating Environment Policy, a project undertaken in 2009 that aims to standardize desktops, improve services and strengthen security.
+The proposal calls for requiring that office suites support at least version 1.1 of ODF for office applications as defined by the International Organization for Standardization (ISO) and International Electrotechnical Commission (IEC).
+ODF is under continual development, Sheridan wrote. The latest 1.2 version, which is expected to eventually become an ISO/IEC standard, includes a spreadsheet specification that resolves compatibility issues between spreadsheet applications.
+"This, coupled with Microsoft Office 2013's support for the format, means that formulae contained in spreadsheets can be reliably transferred between applications," Sheridan wrote.
+Sensing a threat from ODF years ago, Microsoft created an open specification for productivity software called Office Open XML (OOXML), which was approved as an international standard in April 2008.
+OOXML was opposed by many on grounds it was not needed, with critics contending ODF was a less complicated format and already an international standard. OOXML is the default file format for Microsoft Office.
