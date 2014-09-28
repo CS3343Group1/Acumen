@@ -1,8 +1,6 @@
-package Statistics;
+package source;
 
 import java.util.Hashtable;
-
-import Dictionary.Classifier;
 
 public final class CountFrequency {
 	

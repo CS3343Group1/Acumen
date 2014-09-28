@@ -1,4 +1,4 @@
-package Dictionary;
+package source;
 
 import java.util.Hashtable;
 
