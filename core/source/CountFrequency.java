@@ -25,3 +25,8 @@ public final class CountFrequency {
 		return categoryDic;
 	}
 }
+
+//toDo
+/*
+1. Add the case for the empty file input
+*/
