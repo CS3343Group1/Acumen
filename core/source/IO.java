@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 public class IO{
-	private final int MAX_WORDS_NUMBER = 5000;
+	private final int MAX_WORDS_NUMBER = 20000;
 	private String[] words;
 	private String infile;
 	private String infolder;
@@ -50,8 +50,8 @@ public class IO{
 	public int getIndex(){
 		return this.index;
 	}
-//	private void readAndProcess(File file)
-	protected void readAndProcess(File file){
+
+	private void readAndProcess(File file) {
 		try{
 			Scanner scanner=new Scanner(new FileReader(file));
 			String[] s;
@@ -73,8 +73,7 @@ public class IO{
 		}
 	}
 
-//	private void copyArray(String[] s)
-	protected void copyArray(String[] s){
+	private void copyArray(String[] s) {
 		for(int i=0;i<s.length;i++)
 		{
 			if(!isInteger(s[i])&&s[i].length()!=0)
@@ -85,8 +84,7 @@ public class IO{
 		}
 	}
 	
-//	private boolean isInteger -> can be used for other classes
-	public static boolean isInteger(String s){
+	private boolean isInteger(String s){
 		try{
 			int n=0;
 			n=Integer.parseInt(s);
