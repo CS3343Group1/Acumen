@@ -1,0 +1,12 @@
+Microsoft slow to fix Office 2013 Click-to-Run Error 30145-4, but a solution exists
+
+Microsoft claims that "less than 1% of our user base" has encountered the disappearing Office 2013 trick following last Tuesday's patches, but the howls from users continue. The main Microsoft Answers thread is now up to 235 entries and 24 pages.
+One of the people who filed an official support case with Microsoft claims the company contacted him, wanting to close the case, knowing full well the problem hadn't been solved. According to his report, Microsoft says the problem will be fixed in a regular Windows update "in the next couple of months."
+The solution is to uninstall Office 2013 Click-to-Run, then reinstall it. It sounds simple, pitfalls await along the way.
+Poster caine0001 appears to have a thorough solution. The condensed version, embellished a bit, goes like this:
+•	Remove Office 2013 completely. The easiest way is to use Microsoft's Fixit,KB 2739501.
+•	Reinstall Office "however you can" -- go to your account's log-in site, use the Office Deployment Tool, use the emergency disc.
+•	If the installer hangs, follow the suggestions in KB 2813190.
+•	After you reinstall, per caine0001, "go into one of the Office programs (it does not matter which one) and click on File > Account and over on the right side click and hold the Update button. You will see that the top choice is to Disable Updates. Click on that and you will Disable only the Office updates. Windows updates will continue just fine, but the Office ones that are usually mixed in with them will cease. Do not turn it back on until they say that they are releasing the fix or the update that will fix this issue. As long as your Office does not update you should not have to worry about it crashing again."
+As best I can tell, turning off Click-to-Run updates also keeps Click-to-Run from installling its own patches, which may or may not be available in Windows Update/Microsoft Update. It's a good idea to cut off the updates until we hear that Microsoft has fixed the problem -- whatever it may be, whenever it may be.
+

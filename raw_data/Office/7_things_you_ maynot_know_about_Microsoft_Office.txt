@@ -1,0 +1,45 @@
+7 things you may not know about Microsoft Office
+Microsoft is making its suite more social, more integrated with both home-grown and acquired Microsoft technologies, more analytical, and more cloud-friendly
+
+Microsoft Office and Office 365 are evolving. Product names have changed. Mobile APIs have been released. A plethora of other Microsoft products have been integrated with the desktop and cloud-based productivity suite.
+Much has changed, so here's a roundup of seven things that you may not know about the "new" Microsoft Office.
+-. Office 365 will use social, big data technologies
+Microsoft's recent SharePoint Conference 2014 showcased new technology in the pipeline for Office 365 updates.
+The first is Office Graph, a behind-the-scenes "intelligence fabric" that analyses content, interactions and activity and maps relationships à la Yammer. It uses machine learning to surface the most relevant content for each user.
+A new application, codenamed Oslo, which Microsoft demonstrated at the conference, uses information from the Office Graph to dig out relevant information for each Office 365 user from SharePoint, Exchange, Lync, Yammer and Office.
+Microsoft also announced a Groups feature for Office 365 that brings together conversations, calendars, emails and files. Creating a Group in Office 365 will automatically provision a corresponding Yammer conversation feed - and well as calendar, document library and inbox - where members can collaborate and work as a team.
+2. Yammer is being woven into Office 365 fabric
+When Microsoft acquired the social networking company Yammer in the summer of 2012, the initial plan was to keep the company separate rather than absorb it into Microsoft, where it might disappear. Over time, though, it has been integrated into Office 365, particularly SharePoint.
+Now the company says it's planning to make it easy for IT pros to replace the out-of-the-box SharePoint Server 2013 social experience with Yammer. It will be possible to activate it using controls in SharePoint's central administration console, redirecting users to an organization's Yammer network.
+Microsoft also plans to introduce " Inline Social" throughout Office 365, likely through the use of Yammer technology. The first feature to be introduced will be the capability to have social conversations inside documents stored in SharePoint Online and OneDrive for Business (see below).
+3. SkyDrive Pro is now 'OneDrive for Business;' Office Web apps now 'Office Online'
+Microsoft's cloud-based storage service, SkyDrive, has been renamed OneDrive, while SkyDrive Pro, the business version, has been renamed OneDrive for Business. (The change follows a court ruling over a trademark dispute with British satellite broadcaster BskyB.)
+Come April, OneDrive for Business will be available as a standalone product offering secured file, synchronization and sharing in the cloud with integration with Office.
+In SharePoint Server 2013 Service Pack 1, released in February, Microsoft introduced new admin controls to "turn on" OneDrive for Business in the cloud directly from the SharePoint Server 2013 admin console. This lets customers keep on-premises infrastructure while using cloud-based file storage and sharing.
+Microsoft has a knack of choosing confusing names for its products and then changing them; its cloud-based Office Web apps, which rival Google's cloud apps, are no exception. The moniker "Web apps" was apparently too confusing for many users, says Kirk Gregersen, a senior director on Microsoft's Office team. "'Apps' is associated with native apps on mobile devices, and 'Online' better communicates what they are."
+WHITE PAPER
+Are You Prepared for a Software Audit?
+Goodbye, Word and Excel Web apps. Hello, Office Online, Word Online and Excel Online.
+4. Lync-Skype video integration not the end of Skype story
+Microsoft bought Skype back in May 2011 for $8.5 billion. That price seemed high at the time, but now it seems low compared to the $19 billion that Facebook is shelling out to buy the WhatsApp messaging platform, which doesn't yet include a desktop component.
+The first milestone following the acquisition came when Microsoft implemented voice connectivity between Skype and Lync, its communication product, in mid-2013. (Lync is available as a standalone product or as part of Office365 enterprise packages.)
+[ News: Skype for Outlook.com Rolls Out Worldwide ]
+Gregerson says the company is on course to provide video integration between the two products by mid-2014. Without being drawn into details, he hints that there are more plans for Lync and Skype. "Video integration is not the last step. There are more things that we are doing."
+5. New APIs mean more integrated solutions, more mobile apps
+Microsoft has released it Office 365 software development kit (SDK) for Windows 8 and Android. Its aim is to help developers build mobile productivity solutions powered by Office 365. Windows and Android developers can connect to Office 365 data and services, including files, calendars, contacts, tasks and email.
+New Office 365 APIs for files, people, email, calendar and tasks bring enhancements requested by customers including self-service site provisioning and support for OneDrive for Business file actions.
+YOU MIGHT ALSO LIKE
+Smaller Windows PC makers nip at Apple's heels in customer satisfaction
+•	Crashing Apple's iOS 8 party
+•	Lenovo to cough up $100 refunds, $250 vouchers to settle IdeaPad suit
+At the SharePoint conference, Microsoft also demonstrated new data loss prevention capabilities for Office content, enabling organizations to manage, track and audit content.
+6. Office 365 is Microsoft's fastest-growing product -- ever
+Microsoft has made a big bet on cloud-based software. When it comes to Office in the cloud, the bet seems to be paying off.
+According to Gregersen, Office 365 (and its forerunner, Business Productivity Online Suite) has experienced 18 consecutive quarters of triple-digit customer growth. Now, such growth isn't that hard when you come from a base of zero, in the initial stages at least, but the numbers it has racked up recently appear impressive.
+Microsoft won't discuss hard numbers, but Gregersen did say that about 25 percent of Fortune 500 companies are Office 365 users, including 70 percent of manufacturers and 60 percent of financial companies. (It's important to remember, however, that these figures don't reveal how many users there are within an organization - only that at least someone in the organization uses Office 365.)
+When it comes to smaller businesses, the growth rate is even higher, according to Gregerson. SMB customer numbers have grown 250 percent in the last four quarters, he says, with a large proportion of these being one-man bands and very small companies. Hosted email is particularly popular for smaller companies, he adds; overall 15 percent of Microsoft mail users opt for Exchange in the cloud.
+7. Low-cost Office 365 packages available via GoDaddy
+Office 365 users have been able to sign up for a domain name through GoDaddy for some time, but early in 2014 Microsoft launched a set of three low-cost Office365 packages available only through (and supported by) GoDaddy. The cheapest package reflects the aforementioned popularity among small businesses of email in the cloud, offering 5GB of email storage; calendar, contacts email syncing, and 2GB cloud storage for $3.99 per month with a one-year contract.
+Gregerson says GoDaddy came to Microsoft and said that email, a domain name, storage and support would be a "sweet spot" for its customers. The GoDaddy-Microsoft partnership launched in January, and Gregerson says "the take-up has surpassed our expectations." Packages are available in about 40 different currencies and will be rolled out worldwide.
+GoDaddy may seem an unlikely partner for Microsoft, given the controversy surrounding the former's sexually charged advertisements, but Gregerson would say only, "We feel that GoDaddy is a great partner for Microsoft."
+
