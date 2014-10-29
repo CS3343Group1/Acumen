@@ -16,11 +16,11 @@ public class Classifier_testcase {
 
 	@Test
 	public void test_getCountTable() {
-		Hashtable h_social = new Hashtable<String, Integer>();
+		Hashtable<String, Integer> h_social = new Hashtable<String, Integer>();
 		h_social.put("facebook", 17);
 		h_social.put("google+", 8);
 		
-		Hashtable h_game = new Hashtable<String, Integer>();
+		Hashtable<String, Integer> h_game = new Hashtable<String, Integer>();
 		h_game.put("gta", 15);
 		h_game.put("game", 6);
 		
