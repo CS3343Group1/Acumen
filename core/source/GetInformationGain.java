@@ -2,7 +2,6 @@ package source;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FilenameFilter;
 import java.io.IOException;
@@ -12,7 +11,9 @@ import java.util.Hashtable;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
-
+/**
+ * @author Jason Y J WANG
+ */
 public final class GetInformationGain {
 	private double entropy;
 	private int [] num_file_in_one_cat;
@@ -21,6 +22,12 @@ public final class GetInformationGain {
 	private Hashtable<String, Integer> num_file_word_appear_all_cat = new Hashtable<String, Integer>();;
 	private Hashtable<String, Double> info_gain = new Hashtable<String, Double>();
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 30/10/2014
+	 * @amended on 31/10/2014
+	 * @param file_dic_path
+	 */
 	public GetInformationGain(String file_dic_path){
 		File [] fileFolder = (new File(file_dic_path)).listFiles();
 		this.entropy = Math.log(fileFolder.length);
@@ -50,6 +57,11 @@ public final class GetInformationGain {
 		this.num_file_word_appear_all_cat = get_file_count_for_all_cat(num_file_word_appear_one_cat_temp);
 	}
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 31/10/2014
+	 * @param matrix_path
+	 */
 	public void getIGMatrix(String matrix_path){
 		int num_cat = num_file_in_one_cat.length;
 		Hashtable<String, Integer> one_cat_count = null;
@@ -135,6 +147,12 @@ public final class GetInformationGain {
 		}
 	}
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 31/10/2014
+	 * @param list
+	 * @return
+	 */
 	private Hashtable<String, Integer> get_file_count_for_all_cat(List<Hashtable<String, Integer>> list){
 		Hashtable<String, Integer> all_cat_count = new Hashtable<String, Integer>();
 		
@@ -158,6 +176,12 @@ public final class GetInformationGain {
 		return all_cat_count;
 	}
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 31/10/2014
+	 * @param flist
+	 * @return
+	 */
 	private Hashtable<String, Integer> num_file_word_appear(File [] flist){
 //		for test
 //	public static final int num_file_word_appear(String folderPath){
@@ -203,6 +227,12 @@ public final class GetInformationGain {
 //		   return 0;for test
 	}
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 31/10/2014
+	 * @param n
+	 * @return
+	 */
 	private static int get_total_file_num(int [] n){
 		int sum = 0;
 		for(int i = 0; i < n.length; i++){
@@ -211,6 +241,12 @@ public final class GetInformationGain {
 		return sum;
 	}
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 31/10/2014
+	 * @param d
+	 * @return
+	 */
 	private static double getLogSum(List<Double> d){
 		double temp = 0;
 		for(int i = 0; i < d.size(); i++){
@@ -219,10 +255,22 @@ public final class GetInformationGain {
 		return temp;
 	}
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 31/10/2014
+	 * @param f
+	 * @return
+	 */
 	private static double getLog(double f){
 		return f*Math.log(f)*1.0;
 	}
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 31/10/2014
+	 * @param folderPath
+	 * @return
+	 */
 	public static int count_num_files(String folderPath){
 		File [] flist = (new File(folderPath)).listFiles(new FilenameFilter() {
 		    public boolean accept(File dir, String name) {
@@ -233,6 +281,12 @@ public final class GetInformationGain {
 		return flist.length;
 	}
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 31/10/2014
+	 * @param path
+	 * @throws IOException
+	 */
 	private void write_IG(String path) throws IOException{
 		Set<String> keys = this.info_gain.keySet();
 		

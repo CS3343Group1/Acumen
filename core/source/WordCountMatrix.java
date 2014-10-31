@@ -12,12 +12,21 @@ import java.util.Iterator;
 import java.util.Set;
 
 public final class WordCountMatrix {
+	/**
+	 * Create matrix of word_file count
+	 * @author Jason Y J WANG
+	 * @created on 30/10/2014
+	 * @param category
+	 * @param folderPath
+	 * @param parent_path
+	 * @param flnum
+	 * @throws IOException
+	 */
 	public static final void createMatrix(String category, String folderPath, String parent_path, int flnum) throws IOException{
 		
 		HashMap<String, ArrayList<Integer>> countMatrix = new HashMap<String, ArrayList<Integer>>();
 		
 		readFileIntoMemory(countMatrix, folderPath);
-		
 		String path = parent_path+"Matrix/";
 
 		CountFrequency.makeDir(path);
@@ -73,6 +82,13 @@ public final class WordCountMatrix {
 		out.close();
 	}
 	
+	/**
+	 * 
+	 * @author Jason Y J WANG
+	 * @created on 30/10/2014
+	 * @param map
+	 * @param folderPath
+	 */
 	private static void readFileIntoMemory(HashMap<String, ArrayList<Integer>> map, String folderPath){
 		File [] files_in_one_cat = (new File(folderPath)).listFiles(new FilenameFilter() {
 		    public boolean accept(File dir, String name) {
@@ -98,11 +114,11 @@ public final class WordCountMatrix {
 						}
 						list.add(count);
 						
-						map.put(aword, list);
+						map.put(aword.toUpperCase(), list);
 					} else {
 						ArrayList<Integer> list = map.get(aword);
 						list.add(count);
-						map.put(aword, list);
+						map.put(aword.toUpperCase(), list);
 					}
 				}
 				
@@ -114,6 +130,12 @@ public final class WordCountMatrix {
 		}
 	}
 	
+	/**
+	 * @author Jason Y J WANG
+	 * @created on 30/10/2014
+	 * @param s
+	 * @return
+	 */
 	private static String format_blank(String s){
 		if(s.length() == 1){
 			return s+","+ "   ";
