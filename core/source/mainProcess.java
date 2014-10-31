@@ -9,7 +9,8 @@ public class mainProcess {
 		String class_path = mainProcess.class.getProtectionDomain().getCodeSource().getLocation().getPath();
 		String parent_path = class_path.split("core")[0];
 		String data_path = parent_path + "raw_data/";
-		
+		String matrix_path = parent_path+"Matrix/";
+		String file_dic_path = parent_path+"File_Dictionary/";
 		//System.out.println(class_path);
 		//System.out.println(data_path);
 		
@@ -30,7 +31,9 @@ public class mainProcess {
 			
 			IO io = new IO(categories_path[i].toString(), true);
 			categories[i] = CountFrequency.BuildDictionary(category_name, io.documentProcessing());
-			int x = GetInformationGain.num_file_word_appear(parent_path+"File_Dictionary/"+category_name+"_FileDic/");
+			
+			//for testing
+//			int x = GetInformationGain.num_file_word_appear(parent_path+"File_Dictionary/"+category_name+"_FileDic/");
 			//System.out.println(categories[i].getCategory());
 			//System.out.println(categories[i].getCountTable().get("the"));
 			//V2, add the function of sorting and outputting countable
@@ -60,9 +63,10 @@ public class mainProcess {
 				files[i] = CountFrequency.BuildDictionary(files_in_one_cat[j].getName(), file_io.documentProcessing());
 				CountFrequency.writeDic(files[i].getCountTable(), files_in_one_cat[j].getName(), categories[i].getCategory(), parent_path);
 			}
-			
-			
-			
+
+			WordCountMatrix.createMatrix(category_name, parent_path+"File_Dictionary/"+category_name+"_FileDic/", parent_path, file_num_per_cat[i]);
+			GetInformationGain ig = new GetInformationGain(file_dic_path);
+			ig.getIGMatrix(matrix_path);
 		}
 		
 	}

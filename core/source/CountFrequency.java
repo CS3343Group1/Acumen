@@ -133,7 +133,7 @@ public final class CountFrequency {
 	 * @param name
 	 * @throws IOException
 	 */
-	private static void makeDir(String name) throws IOException{
+	protected static void makeDir(String name) throws IOException{
 		File file_folder = new File(name);
 		if(!file_folder.exists()){
 			file_folder.mkdirs();	
