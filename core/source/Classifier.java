@@ -16,7 +16,4 @@ public class Classifier {
 	public Hashtable<String, Integer> getCountTable() {
 		return countTable;
 	}
-	
-	
-	
 }

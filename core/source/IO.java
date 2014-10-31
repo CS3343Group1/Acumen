@@ -41,12 +41,22 @@ public class IO{
 
 		return words;
 	}
-	/*amended by Jason on 29/09/2014*/
+
 	
+	/**
+	 * @amended by Jason Y J WANG
+	 * @amended on 29/09/2014
+	 * @return
+	 */
 	public String [] getWords() {
 		return this.words;
 	}
 	
+	/**
+	 * @amended by Jason Y J WANG
+	 * @amended on 29/09/2014
+	 * @return
+	 */
 	public int getIndex(){
 		return this.index;
 	}
@@ -60,7 +70,7 @@ public class IO{
 			while(scanner.hasNextLine())
 			{
 				line=scanner.nextLine();
-				s=line.split(",|\\.|\\s+|\t|\"|\'|���|���");
+				s=line.split(",|\\.|\\s+|\t|\"|\'|���������|���������");
 				// for(int i=0;i<s.length;i++)
 				// 	System.out.print(s[i]+"\t");
 				// System.out.println();
@@ -86,7 +96,7 @@ public class IO{
 	
 	private boolean isInteger(String s){
 		try{
-			int n=0;
+			int n = 0;
 			n = Integer.parseInt(s);
 			return true;
 		}catch(Exception e){
