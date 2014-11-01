@@ -1,8 +1,11 @@
 package source;
 
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.io.FilenameFilter;
 import java.io.IOException;
+import java.util.HashMap;
 
 public class mainProcess {
 	public static void main(String[] args) throws IOException {
@@ -11,8 +14,21 @@ public class mainProcess {
 		String data_path = parent_path + "raw_data/";
 		String matrix_path = parent_path+"Matrix/";
 		String file_dic_path = parent_path+"File_Dictionary/";
+		String filter_path = parent_path + "useless_words/Useless_words.txt";
 		//System.out.println(class_path);
 		//System.out.println(data_path);
+		
+		/**
+		 * @author ZHU Renjie
+		 * @created on 30/10/2014
+		 */
+		HashMap<String, Integer> useless_words = new HashMap<String, Integer>();
+		BufferedReader reader = new BufferedReader(new FileReader(filter_path));
+		String line = null;
+		for (int i=0; (line = reader.readLine()) != null; i++){
+			if (!useless_words.containsKey(line))
+				useless_words.put(line, i);	     
+		}
 		
 		File folder = new File(data_path);
 		File[] categories_path = folder.listFiles();
@@ -30,7 +46,7 @@ public class mainProcess {
 			//System.out.println(category_name);
 			
 			IO io = new IO(categories_path[i].toString(), true);
-			categories[i] = CountFrequency.BuildDictionary(category_name, io.documentProcessing());
+			categories[i] = CountFrequency.BuildDictionary(category_name, io.documentProcessing(), useless_words);
 			
 			//for testing
 //			int x = GetInformationGain.num_file_word_appear(parent_path+"File_Dictionary/"+category_name+"_FileDic/");
@@ -60,7 +76,7 @@ public class mainProcess {
 			IO file_io = null;
 			for(int j = 0; j < file_num_per_cat[i]; j++){
 				file_io = new IO(files_in_one_cat[j].toString(), false);
-				files[i] = CountFrequency.BuildDictionary(files_in_one_cat[j].getName(), file_io.documentProcessing());
+				files[i] = CountFrequency.BuildDictionary(files_in_one_cat[j].getName(), file_io.documentProcessing(), useless_words);
 				CountFrequency.writeDic(files[i].getCountTable(), files_in_one_cat[j].getName(), categories[i].getCategory(), parent_path);
 			}
 

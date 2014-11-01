@@ -6,24 +6,30 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.Map;
 
 public final class CountFrequency {
 	
 	/**
-	 * 
+	 * @author ZHU Renjie
+	 * @amended on 31/10/2014
 	 * @param category: news type
 	 * @param content: the content of all news belonging to this topic
 	 * @return Classifier which contains the frequency count of words and category information 
 	 */
-	public static Classifier BuildDictionary(String category, String [] content){
+	public static Classifier BuildDictionary(String category, String [] content, HashMap<String, Integer> useless_words){
 		Hashtable<String, Integer> dict = new Hashtable<String, Integer>();
 		for(int i=0; i < content.length; i++) {
 			if (content[i] == null) break;
 			
 			if(content[i].matches(".*\\d.*"))
 				continue;
+			//V02s
+			if(useless_words.containsKey(content[i]))
+				continue;
+			//V02e
 			if(dict.containsKey(content[i])){
 				Integer count = dict.get(content[i]) + 1;
 				dict.put(content[i], count);

@@ -86,13 +86,27 @@ public final class GetInformationGain {
 				
 				if(all_cat_count.get(key) != null){
 					tot_num_file = all_cat_count.get(key);
-					double pcw = num_file/tot_num_file*1.0;
+					double pcw = num_file*1.0/tot_num_file;
 					double pcw_b;
 					 /*bug*/
 					if(tot_file_num-tot_num_file == 0){
 						pcw_b = 0;
 					} else {
-						;pcw_b = (num_file_in_one_cat[i]-num_file)/(tot_file_num-tot_num_file)*1.0;
+						pcw_b = (num_file_in_one_cat[i]-num_file)*1.0/(tot_file_num-tot_num_file);
+//						if(pcw_b <0)
+//						System.out.println(pcw_b);
+						
+//						if(pcw < 0){
+//							System.out.println(pcw);
+//						}
+//						
+//						if(num_file_in_one_cat[i]-num_file <0){
+//							System.out.println(num_file_in_one_cat[i]-num_file);
+//						}
+//						
+//						if(tot_file_num-tot_num_file <0){
+//							System.out.println(tot_file_num-tot_num_file);
+//						}
 					}
 					
 					if(pcwMap.get(key) == null){
@@ -110,6 +124,8 @@ public final class GetInformationGain {
 						tp_pcw_b.add(pcw_b);
 						pcwMap.put(key, tp_pcw);
 						pcw_bMap.put(key, tp_pcw_b);
+						
+//						System.out.println(pcwMap.get(key));
 					}	
 				} else {
 					System.out.println("no key:" + key);
@@ -129,8 +145,8 @@ public final class GetInformationGain {
 			if(pcwf.size() != pcw_bf.size()){
 				System.out.println("ERROR");
 			} else {
-				double pw = all_cat_count.get(key)/tot_file_num*1.0;
-				double IG = this.entropy + pw + getLogSum(pcwf) + getLogSum(pcw_bf);
+				double pw = all_cat_count.get(key)*1.0/tot_file_num;
+				double IG = this.entropy + pw + getLogSum(pcwf) + (1-pw)*getLogSum(pcw_bf);
 				
 				if(info_gain.get(key) != null){
 					System.out.println("ERROR2");
@@ -215,14 +231,14 @@ public final class GetInformationGain {
 			e.printStackTrace();
 		}
 		
-		Set<String> keys = result.keySet();
-
-		   for (Iterator<String> k = keys.iterator(); k.hasNext();)
-		   {
-		       String key = (String) k.next();
-		       String value = result.get(key)+"";
-		       System.out.println(key+"-----"+value);
-		   }
+//		Set<String> keys = result.keySet();
+//
+//		   for (Iterator<String> k = keys.iterator(); k.hasNext();)
+//		   {
+//		       String key = (String) k.next();
+//		       String value = result.get(key)+"";
+//		       System.out.println(key+"-----"+value);
+//		   }
 		  return result;
 //		   return 0;for test
 	}
@@ -250,7 +266,7 @@ public final class GetInformationGain {
 	private static double getLogSum(List<Double> d){
 		double temp = 0;
 		for(int i = 0; i < d.size(); i++){
-			temp+=getLog(d.get(i));
+			temp+=d.get(i)*getLog(d.get(i));
 		}
 		return temp;
 	}
