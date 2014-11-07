@@ -2,6 +2,7 @@ package testcase;
 
 import static org.junit.Assert.*;
 
+import java.util.HashMap;
 import java.util.Hashtable;
 
 import org.junit.Before;
@@ -19,7 +20,8 @@ public class CountFrequency_testcase {
 	@Test
 	public void test_BuildDictionary_count() {
 		String [] test_content = {"facebook", "google+", "facebook", "facebook", "facebook", "facebook", "facebook"};
-		Classifier test_cat = CountFrequency.BuildDictionary("", test_content);
+		HashMap<String, Integer> map = new HashMap<String, Integer>();
+		Classifier test_cat = CountFrequency.BuildDictionary("", test_content, map);
 		assertEquals(6, (int)test_cat.getCountTable().get("facebook"));
 	}
 	
@@ -27,7 +29,8 @@ public class CountFrequency_testcase {
 	@Test
 	public void test_BuildDictionary_category() {
 		String [] test_content = {};
-		Classifier test_cat = CountFrequency.BuildDictionary("social", test_content);
+		HashMap<String, Integer> map = new HashMap<String, Integer>();
+		Classifier test_cat = CountFrequency.BuildDictionary("social", test_content, map);
 		assertEquals("social", test_cat.getCategory());
 	}
 }
