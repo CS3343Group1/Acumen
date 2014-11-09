@@ -24,7 +24,7 @@ public final class CountFrequency {
 		for(int i=0; i < content.length; i++) {
 			if (content[i] == null) break;
 			
-			if(content[i].matches(".*\\d.*"))
+			if(content[i].matches(".*\\d.*") || !content[i].matches("[a-zA-Z-]+"))
 				continue;
 			//V02s
 			if(useless_words.containsKey(content[i]))

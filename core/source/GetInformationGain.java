@@ -146,7 +146,7 @@ public final class GetInformationGain {
 				System.out.println("ERROR");
 			} else {
 				double pw = all_cat_count.get(key)*1.0/tot_file_num;
-				double IG = this.entropy + pw + getLogSum(pcwf) + (1-pw)*getLogSum(pcw_bf);
+				double IG = this.entropy + pw * getLogSum(pcwf) + (1-pw)*getLogSum(pcw_bf);
 				
 				if(info_gain.get(key) != null){
 					System.out.println("ERROR2");
@@ -268,6 +268,7 @@ public final class GetInformationGain {
 		for(int i = 0; i < d.size(); i++){
 			temp+=d.get(i)*getLog(d.get(i));
 		}
+		
 		return temp;
 	}
 	

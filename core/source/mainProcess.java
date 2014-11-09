@@ -81,14 +81,17 @@ public class mainProcess {
 			}
 
 			WordCountMatrix.createMatrix(category_name, parent_path+"File_Dictionary/"+category_name+"_FileDic/", parent_path, file_num_per_cat[i]);
-			/**
-			 * Write inforamtion gain into files
-			 * @author Jason Y J WANG
-			 * @created on 31/10/2014
-			 */
-			GetInformationGain ig = new GetInformationGain(file_dic_path);
-			ig.getIGMatrix(matrix_path);
+			
 		}
+		
+		/**
+		 * Write inforamtion gain into files
+		 * @author Jason Y J WANG
+		 * @created on 31/10/2014
+		 */
+		GetInformationGain ig = new GetInformationGain(file_dic_path);
+		ig.getIGMatrix(matrix_path);
+		System.out.println("Informaiton Gain generated.");
 		
 	}
 }
