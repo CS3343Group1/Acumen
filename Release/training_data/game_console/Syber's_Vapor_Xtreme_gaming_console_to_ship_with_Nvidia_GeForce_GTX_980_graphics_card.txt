@@ -1,0 +1,23 @@
+Summary: Running Steam's Big Picture Mode and ready to be a future Steam Machine, this system brings the latest and greatest desktop graphics card into the living room.
+Sean Portnoy
+
+By Sean Portnoy for Laptops & Desktops | September 20, 2014 -- 15:58 GMT (23:58 SGT)
+cyberpower-pc-syber-vapor-extreme-steam-machine-gaming-console
+
+Nvidia appears to have regained the graphics card title with yesterday's rollout of its GeForce GTX 970 and 980 cards, the latter being touted as the fastest desktop graphics card currently available. As usual, gaming PC companies have immediately introduced these new cards as options for their desktops, but perhaps the most intriguing announcement comes in the form of the emerging PC gaming console space.
+Linux-based game console (Gallery)
+Meet the Steamboxes (Gallery)
+
+Meet the Steamboxes (Gallery)
+
+    Read more
+
+Spurred by Valve's Steam Machine concept, PC makers have been creating new systems that are designed to be used in the living room with an HDTV. The supposed revolution in PC gaming escaping from the desk has been stalled a bit by the delay in the Steam Machine rollout, which is now looking like it will launch in 2015. But that hasn't completely stopped companies from releasing consoles that have had to run Windows 8.1 and Valve's Big Picture Mode (for streaming to HDTVs) for the time being, with the promise of being Steam Machine "ready" whenever that platform is finalized.
+
+Alienware, for instance, has already launched its Alpha PC gaming console, and CyberPowerPC has created a new subsidiary, Syber, to handle its Vapor consoles. While the initial Vapor models have taken a similar low-cost approach that the Alpha is, Syber looks to be getting a lot more hard-core with the new Vapor Extreme configuration.
+
+That's thanks in part to the inclusion of the GTX 980, which means you no longer have to compromise graphics firepower to have a smaller form factor PC in the den. Syber also packs in other top-shelf components for the Vapor Extreme, such as an Intel Core i7-4790K quad-core Haswell CPU, 8GB of RAM, and a 1TB hard drive. They all squeeze into a chassis that measures just 13.8x13.6x3.8 inches. As with other CyberPowerPC systems, the Vapor Extreme is upgradeable from this base configuration, such as adding an overclocked version of the GTX 980 or doubling the RAM. 
+
+As with these other pre-Steam Machines (for lack of a better term), the Vapor line runs Windows 8.1 and can boot directly into Big Picture Mode. It will also be ready for the SteamOS when it eventually becomes available. In the meantime, the Vapor Extreme brings a full-featured gaming PC into your living room, though it comes with the usual price tag for a full-featured gaming PC. The base configuration will set you back $1,499, and you can expect to receive the Vapor Extreme by October 15. In addition to being available through the CyberPowerPC site, Syber also says Vapor systems will be available through online retailers like Amazon, Newegg, and Tiger Direct.
+
+Topics: Hardware, PCs

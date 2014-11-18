@@ -1,0 +1,25 @@
+Study: Despite bright, shiny rivals, good old Office still rules at work
+Employees retain a solid preference for Microsoft Office over its competitor
+
+In the office, people still prefer Microsoft Office.
+Yes, despite threats from rivals that are open source, cheaper, fully cloud-based or more mobile-friendly, Microsoft Office's desktop suite reigns over the workplace productivity software kingdom.
+That's the conclusion Forrester Research reached after recently polling 155 enterprise IT professionals with decision-making power over their company's choice of office software suites.
+"Things haven't really changed," said Forrester analyst Philipp Karcher, who authored the report. "Office still has a stranglehold in this market."
+While IT departments may grumble that Office has more features than most people need and that it's costly, the suite has been around so long that it owns the hearts of employees, who also use it at home for personal matters, the study found.
+In that way, Office has benefitted all along from what is known today as the "consumerization of IT" trend, where people's choice of software and computing devices at home helps influence the IT tools companies offer them at work, Karcher said. Office is by far the market leader for office suites among consumers.
+"People like Office. They're familiar with it at home and at work," he said. "Thus, it's hard to displace."
+This despite advances in adoption of cloud email, which often comes bundled in with lightweight browser-based productivity suites, as in the case of Google Apps with Gmail and Docs, and Microsoft's own Office 365, which comes with Exchange Online and Office Web Apps.
+The study found that 20 percent of surveyed companies are using cloud-based email and another 25 percent have plans to adopt it.
+Currently, browser-based office suites, such as Google Docs, are mostly a complement to Office for employees who have "lightweight" needs, according to Karcher. Microsoft has responded to that use case with Office Web Apps, which offers a subset of the functionality of the full-featured desktop version.
+The study also yielded surprising findings about what respondents find important about office productivity suites. Topping that list is compatibility with Microsoft Office file formats, followed by integration with the company's email system.
+Also important, but not as much, are reduced license fees, compatibility with the company's existing macros and integration with its enterprise social collaboration platform.
+Ranking on the low end of priorities are features that get a lot of attention in the market for their razzle-dazzle but apparently aren't very interesting yet in the real world. Those include the ability for multiple users to simultaneously co-edit documents, which is a big Google Docs feature, and mobile apps for iOS and Android devices, which indicates there isn't a lot of interest in using office suites with tablets just yet.
+Another eye-opening finding is that while 90 percent of companies give every employee a copy of Office, only 6 percent also provide their users with an alternative suite.
+Karcher also found it interesting that this time around, the momentum of open-source alternatives such as OpenOffice and LibreOffice has slowed down, compared with the last time Forrester conducted this survey about two years ago. "Their adoption hasn't significantly improved," he said.
+Also helping Office is the fact that IT departments generally don't find the process of upgrading the suite to newer versions very challenging, and that most upgrades don't require hiring outside consultants, according to the survey.
+The latest version of Office that's sold via perpetual licenses -- pay once and own it forever -- is called Office 2013, while those sold via subscriptions renewed annually carry the Office 365 brand.
+The most popular Office version in use at work is Office 2010 (present in 85 percent of surveyed companies), followed by Office 2007 (51 percent) and Office 2003 (28 percent).
+Office 2013 is in 22 percent of surveyed companies, but adoption is slower than it was at a comparable stage for Office 2010. Forrester found that 36 percent plan to adopt Office 2013. The main reason for moving to Office 2013 is that the upgrade is included in the companies' license program. Only a third of respondents cited "compelling features and benefits" as a reason for upgrading.
+Office for Mac 2011 is in 17 percent of the surveyed companies, followed by Google Docs (13 percent), Microsoft Office Web Apps (9 percent), OpenOffice (3 percent), LibreOffice (2 percent) and Corel WordPerfect Office and IBM Docs, each with 1 percent.
+So, in a nutshell, when it comes to office suites at work, the more things change, the more they stay the same.
+

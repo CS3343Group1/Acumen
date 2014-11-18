@@ -1,0 +1,33 @@
+While most social networks aim to connect people, one new service seeks to join the growing trend of doing the opposite and help you avoid them.
+
+Cloak uses public location data from other social networks, Foursquare and Instagram, to determine the locations of others you know.
+
+Users can choose to receive an alert when certain people are believed to be nearby.
+
+It is the latest in the recent trend of "anti-social", or secretive, apps.
+
+Apps such as Snapchat - which deletes photographs and videos seconds after they have been viewed - and Secret - which broadcasts messages anonymously - are growing in popularity.
+
+Likewise WhatsApp, a private-messaging service recently bought by Facebook for $19bn (£11.4bn), indicates a shift back to conducting online conversations in private.
+
+Cloak describes itself as a method to "avoid exes, co-workers, that guy who likes to stop and chat - anyone you'd rather not run into".
+
+It was created by programmer Brian Moore and the former creative director of viral news site Buzzfeed, Chris Baker.
+
+'Gimmick'
+
+Mr Baker told the Washington Post that his service was typical of the direction social networking was taking.
+
+"Personally, I think we've seen the crest of the big social network," he said.
+
+"Things like Twitter and Facebook are packed elevators where we're all crammed in together… I think anti-social stuff is on the rise. You'll be seeing more and more of these types of projects."
+
+Nick Jones, editor-in-chief of App Magazine, told the BBC he was unconvinced - though tempted.
+
+"It does sound like a gimmick," he said. "But I might use it myself!"
+
+He suggested that these niche apps were being developed not because of any great consumer need, but because developers are keen to corner some of the few remaining untapped social-media markets.
+
+"People are having to diversify their apps and find some unique angle to their app, and then try and sell it to Facebook and make a pretty penny."
+
+However, he admitted: "Secrecy has its advantages for people. It's quite attractive."
