@@ -22,6 +22,8 @@ public class FeatureSelection {
 		ArrayList<Entry<String, Double>> sortedList = sortMap(igPath);
 		
 		for(int i=0; i<n; i++){
+			if(i>=sortedList.size())
+				break;
 			features.add(sortedList.get(i));
 		}
 		

@@ -1,3 +1,0 @@
-zhou	1
-fang	3
-word-a	1

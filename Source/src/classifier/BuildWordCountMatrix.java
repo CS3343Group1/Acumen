@@ -37,8 +37,8 @@ public class BuildWordCountMatrix {
 		File rootFolder = new File(trainingDataPath);
 		//TODO: here I assume the file hierarchy is valid, to be refactored
 		File categories [] = rootFolder.listFiles();
-		File categoryMapFile = new File(outputPath + "/categoryMap.txt");
-		File docMapFile = new File(outputPath + "/documentMap.txt");
+		File categoryMapFile = new File(outputPath + "/map/categoryMap.txt");
+		File docMapFile = new File(outputPath + "/map/documentMap.txt");
 		try {
 			categoryMapFile.createNewFile();
 			docMapFile.createNewFile();
@@ -89,8 +89,8 @@ public class BuildWordCountMatrix {
 	private void buildWordMatrix(){
 		HashMap<String, ArrayList<Integer>> matrix = new HashMap<String, ArrayList<Integer>>();//key: Word; Value: Occurrences in each file
 		//TODO: please test the matrix using some test files
-		String commonDictPath = outputPath + "/common_word.txt";
-		String totalDictPath = outputPath + "/total_word.txt";
+		String commonDictPath = outputPath + "/dictionary/common_word.txt";
+		String totalDictPath = outputPath + "/dictionary/total_word.txt";
 		ArrayList<Hashtable<String, Integer>> wordCountFileList = new ArrayList<Hashtable<String, Integer>>();
 		
 		//get all the words first, for the convenience of building matrix, do not need to care fileIndex
@@ -135,9 +135,9 @@ public class BuildWordCountMatrix {
 		for(int i=0; i<wordCountSet.size(); i++)
 			wordNumInFileList.add(wordCountSet.get(i).getWordsNum());
 		
-		String matrixPath = outputPath + "/WordCountMatrix.txt";
+		String matrixPath = outputPath + "/matrix/wordCountMatrix.txt";
 		printMatrix(matrix, matrixPath);
-		String wordNumPath = outputPath + "/WordNumInFileList.txt";
+		String wordNumPath = outputPath + "/matrix/wordNumInFileList.txt";
 		printList(wordNumInFileList,wordNumPath);
 	}
 	

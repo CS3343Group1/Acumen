@@ -27,6 +27,8 @@ public class ReadContent {
 	//Process the path
 	public String [] processDocument(){
 		File inputFile = new File(inputPath);
+		if(!inputFile.exists())
+			return new String[0];
 		
 		if(inputFile.isDirectory()){
 			File[] subFiles = inputFile.listFiles();
