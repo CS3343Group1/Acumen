@@ -1,0 +1,14 @@
+brave	1
+technology	1
+america	2
+economy	1
+health	2
+brightness	1
+japan	1
+strong	2
+quite	1
+advanced	3
+arm	2
+hair	1
+tall	2
+eye	1

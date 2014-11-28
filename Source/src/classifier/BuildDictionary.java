@@ -61,7 +61,7 @@ public class BuildDictionary {
 		File comDictFile = new File(commonDictPath);
 		File totDictFile = new File(totalDictPath);
 		try{
-			comDictFile.createNewFile();
+
 			totDictFile.createNewFile();
 	
 			BufferedWriter comBW = new BufferedWriter(new FileWriter(comDictFile));

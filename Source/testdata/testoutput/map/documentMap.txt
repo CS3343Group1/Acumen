@@ -1,0 +1,6 @@
+C1_file1.txt	0
+C1_file2.txt	1
+C1_file3.txt	2
+C2_file4.txt	3
+C2_file5.txt	4
+C2_file6.txt	5

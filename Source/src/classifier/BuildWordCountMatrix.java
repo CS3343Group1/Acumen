@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Hashtable;
@@ -57,6 +58,7 @@ public class BuildWordCountMatrix {
 				//write to documentMap file & build the matrix
 				//TODO: we assume under the directory of training data, all are folders, file will cause exception here
 				File subFiles [] = folder.listFiles();
+				Arrays.sort(subFiles);
 				int startIndexOfThisCat = fileNameMap.size();
 				catBW.write(""+startIndexOfThisCat + "\t");//TODO: bug here, unreadable code if print int
 				catBW.write(""+ subFiles.length);

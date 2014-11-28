@@ -1,0 +1,14 @@
+brightness	1	0	0	0	0	0	
+brave	0	1	0	0	0	0	
+japan	0	0	0	0	0	1	
+technology	0	0	0	0	0	1	
+america	0	0	0	1	1	0	
+strong	0	0	0	0	1	1	
+quite	0	0	0	1	0	0	
+advanced	1	0	0	1	0	1	
+economy	0	0	0	0	1	0	
+arm	0	1	1	0	0	0	
+health	1	0	2	0	0	0	
+hair	0	1	0	0	0	0	
+tall	0	1	1	0	0	0	
+eye	1	0	0	0	0	0	

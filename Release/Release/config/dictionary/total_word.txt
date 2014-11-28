@@ -70,11 +70,13 @@ cutting	1
 join	2
 m	6
 taking	7
+i	20
 situated	1
 labor	1
 v	2
 expertise	1
 u	3
+t	43
 days	7
 r	1
 p	1
@@ -115,6 +117,7 @@ station	1
 align	1
 automatic	1
 preferred	4
+much	21
 country	4
 mid-september	1
 tweaked	1
@@ -146,8 +149,8 @@ ruthless	1
 quantum	2
 especially	6
 treasure	2
-knell	1
 dominate	2
+knell	1
 chris	2
 reached	3
 spends	1
@@ -162,6 +165,7 @@ hello	1
 entire	5
 convoy	1
 advantage	3
+which	44
 ran	1
 ram	3
 female	1
@@ -214,8 +218,8 @@ rumors	3
 thought	7
 easily	9
 road	1
-express	1
 space	3
+express	1
 decision	2
 cores	1
 violations	1
@@ -227,6 +231,7 @@ corel	1
 boys	1
 browser	4
 endless	2
+rather	15
 jon	1
 publicity	1
 construction	2
@@ -294,6 +299,7 @@ ezio	1
 deployed	1
 security	5
 grip	1
+while	27
 sidesteps	1
 super	1
 uninstall	1
@@ -333,9 +339,10 @@ maintain	4
 conducted	2
 themes	1
 flow	2
+its	51
 coaxing	1
-cave	1
 omitted	1
+cave	1
 production	2
 teachers	1
 practices	5
@@ -346,8 +353,8 @@ designers	1
 hdtv	1
 appeal	1
 movements	1
-tattoo	1
 worldwide	3
+tattoo	1
 secondly	1
 structured	1
 jawbone	1
@@ -397,8 +404,8 @@ significant	2
 truth	1
 tesla	2
 worked	9
-pick	5
 helium	1
+pick	5
 godaddy	1
 yahoo	1
 sensitive	2
@@ -488,8 +495,8 @@ chip	7
 delivered	1
 advantages	1
 strength	1
-differentiation	1
 counter	1
+differentiation	1
 moderators	1
 helped	4
 whole-of-government	1
@@ -536,6 +543,7 @@ compelling	3
 attracted	1
 spin-valve	1
 matters	2
+like	39
 productive	2
 ratchets	1
 visual	1
@@ -835,6 +843,7 @@ beasts	1
 passport	1
 local-only	1
 futurists	1
+they	41
 parking	1
 manager	3
 recipe	1
@@ -853,8 +862,8 @@ educated	1
 standardized	1
 worth	3
 programs	7
-exercising	2
 structure	2
+exercising	2
 suitable	1
 church	1
 calculations	1
@@ -870,7 +879,9 @@ managed	2
 earlier	10
 enabling	2
 soi	1
+them	31
 experienced	1
+then	21
 semiconductors	2
 right-hand	1
 launching	4
@@ -949,6 +960,7 @@ shanghai	1
 november	4
 zuckerberg	2
 premise	1
+such	25
 controlled	2
 doubt	2
 offering	10
@@ -956,8 +968,8 @@ sku	1
 league	1
 targeted	4
 describing	1
-pieces	2
 whichever	1
+pieces	2
 common-law	1
 stuff	3
 mother	1
@@ -968,6 +980,7 @@ detonated	1
 thin	2
 controller	2
 included	6
+this	47
 release	13
 mining	1
 parity	1
@@ -1059,8 +1072,8 @@ bore	1
 borg	1
 worlds	1
 differences	1
-resulting	1
 probes	1
+resulting	1
 laden	1
 loops	1
 document	6
@@ -1097,6 +1110,7 @@ publishing	2
 fear	2
 blockbuster	2
 detail	2
+both	18
 brian	1
 nadella	1
 toronto	1
@@ -1109,6 +1123,7 @@ refills	1
 contacts	2
 seeks	2
 confer	1
+after	22
 affected	2
 mashable	1
 unreal	1
@@ -1127,11 +1142,13 @@ associates	1
 generates	2
 white	1
 pearl	1
+that	56
 preempt	1
 encourage	3
 associated	4
 efforts	5
 generated	4
+than	40
 previously	5
 memories	2
 empirical	1
@@ -1141,11 +1158,12 @@ minority	1
 brick	1
 guotai	1
 biding	1
+about	39
 sum	2
 raced	1
 engineering	2
-bonuses	1
 cooperate	1
+bonuses	1
 grumble	1
 circles	1
 complete	1
@@ -1167,8 +1185,8 @@ rush	2
 crucial	4
 cease	1
 expanding	2
-promise	5
 feet	1
+promise	5
 accompanying	1
 fees	3
 web-based	1
@@ -1201,8 +1219,8 @@ whisper	1
 looting	1
 behaviors	1
 sales	10
-criminal	1
 macintosh	1
+criminal	1
 kaz	1
 expectations	2
 weather	1
@@ -1259,8 +1277,8 @@ rely	2
 edge	3
 segregate	1
 afterburner	1
-e-tattoos	1
 monolithic	3
+e-tattoos	1
 smartphones	11
 restricted	1
 access	12
@@ -1345,13 +1363,14 @@ office	13
 wasn	4
 boot	1
 mistake	1
+with	54
 desire	1
 circumstances	1
 matter	5
 flowing	1
 website	3
-naturally	1
 locally	3
+naturally	1
 relocated	2
 deals	1
 domestic	1
@@ -1392,6 +1411,7 @@ hungry	1
 syria	1
 incorporation	1
 viper	1
+these	25
 intelligence	2
 else	4
 itunes	1
@@ -1431,8 +1451,8 @@ interested	4
 ubisoft	2
 training	1
 authority	1
-concerned	2
 stabilized	1
+concerned	2
 syber	1
 side	5
 respawning	1
@@ -1463,6 +1483,7 @@ pdf	2
 broadcast	1
 hinted	1
 envelope	1
+has	51
 backs	1
 planet	1
 manuel	1
@@ -1476,6 +1497,7 @@ techtree	1
 embedding	1
 friday	1
 planes	1
+had	19
 pci	1
 processes	3
 engrams	1
@@ -1495,15 +1517,15 @@ installer	1
 talks	2
 streams	1
 co-workers	1
-sensed	1
 degradation	1
+sensed	1
 unintuitive	1
 measure	1
 log-in	1
 legitimate	2
+invulnerable	1
 granted	3
 exercise	2
-invulnerable	1
 pulse	1
 analysis	1
 tested	2
@@ -1524,8 +1546,8 @@ tonight	1
 activity	5
 sites	2
 music	5
-snowden	1
 pad	2
+snowden	1
 kong-listed	1
 urls	1
 funniest	1
@@ -1541,6 +1563,7 @@ antivirus	1
 never	3
 indents	1
 neven	1
+there	28
 compromises	1
 painless	1
 categories	1
@@ -1557,8 +1580,8 @@ highlight	1
 pre-teen	1
 chugging	1
 bbc	2
-sensor	3
 calculation	1
+sensor	3
 revenue-generating	1
 densities	1
 among	9
@@ -1606,8 +1629,8 @@ supported	4
 hiring	1
 tracker	1
 denies	1
-listen	3
 products	10
+listen	3
 kept	2
 enthusiasm	1
 minimally	1
@@ -1646,6 +1669,7 @@ cooled	1
 iteration	1
 angles	1
 miracles	1
+his	15
 hit	8
 practically	1
 exact	1
@@ -1706,6 +1730,7 @@ political	2
 added	8
 rolled	1
 reuters	1
+your	25
 play	10
 agreement	2
 francisco	1
@@ -1745,8 +1770,8 @@ revenues	3
 heads	1
 specificity	1
 absurd	1
-blood	1
 quiet	1
+blood	1
 downed	1
 became	4
 titled	1
@@ -1784,8 +1809,8 @@ gamma	1
 american	2
 electron	3
 substantially	1
-depending	2
 best	14
+depending	2
 resolves	1
 gold	3
 checkouts	1
@@ -1835,6 +1860,7 @@ belief	1
 imagine	5
 superscripts	1
 snapdragon	1
+whose	1
 electric	1
 economy	2
 behind	10
@@ -1850,8 +1876,8 @@ eviscerated	1
 scheduled	1
 webcasts	1
 tumblr	3
-burn	1
 itrs	1
+burn	1
 sorts	1
 innovative	1
 got	7
@@ -1861,6 +1887,7 @@ succeeded	1
 funneling	1
 car	3
 fractured	1
+can	42
 excitingly	1
 stability	1
 children	3
@@ -1883,6 +1910,7 @@ overflowing	1
 dota	1
 extended	1
 arora	1
+you	47
 regret	1
 shinppu	1
 mattered	1
@@ -1904,8 +1932,8 @@ learned	2
 pro	2
 bonkers	1
 actual	2
-latest	13
 somewhat	1
+latest	13
 electronics	2
 competition	7
 ilya	1
@@ -1963,6 +1991,7 @@ transport	1
 delete	1
 wrenches	2
 jury	1
+just	35
 extreme	2
 fifth	1
 guy	1
@@ -1984,6 +2013,7 @@ all-in-one	1
 improving	3
 nucleus	1
 despite	8
+but	57
 costing	1
 bus	2
 ranked	1
@@ -1994,6 +2024,7 @@ introduce	3
 footage	2
 existential	1
 used	20
+been	38
 non-swarm	1
 doesn	15
 survey	2
@@ -2021,8 +2052,8 @@ cognitive	1
 stories	1
 tinkerers	1
 whopping	2
-wells	1
 exposure	1
+wells	1
 redmond	1
 connecting	2
 june	3
@@ -2046,8 +2077,8 @@ exist	3
 fakery	1
 misty	1
 university	2
-incredible	3
 beginning	4
+incredible	3
 crowns	1
 sweeping	1
 laptops	1
@@ -2062,6 +2093,7 @@ quite	9
 imponderable	1
 uses	8
 terabytes	1
+their	33
 user	9
 incredibly	4
 hoops	1
@@ -2100,14 +2132,15 @@ isolated	1
 engine	1
 valleys	1
 promised	3
-ibm	5
 portfolio	1
+ibm	5
 plate	1
 harness	1
 mood	2
 image	7
 featuring	1
 miles	2
+he	18
 projects	3
 aim	5
 paste	1
@@ -2143,6 +2176,7 @@ consider	5
 battery	3
 dj	1
 domain	1
+current	9
 do	23
 left	5
 jewels	1
@@ -2181,6 +2215,7 @@ cascading	1
 configuration	2
 notes	2
 ago	7
+yet	19
 tightly	1
 amendment	1
 piezoelectric	1
@@ -2189,6 +2224,7 @@ docs	6
 versus	2
 normal	2
 driving	1
+by	48
 plays	1
 long	18
 wallet	1
@@ -2196,6 +2232,7 @@ exploring	1
 describes	1
 unlocks	1
 deal	9
+any	23
 choosing	3
 hand-picked	1
 eavesdrop	1
@@ -2207,6 +2244,7 @@ bc	1
 iec	1
 deaf	1
 displaymate	1
+be	50
 dc	1
 predicts	2
 staging	1
@@ -2243,6 +2281,7 @@ amp	1
 specs	2
 collect	1
 galaxy	3
+does	13
 respondents	1
 thralls	1
 boast	1
@@ -2260,8 +2299,8 @@ frequency	1
 expects	1
 husband	1
 recommend	1
-melts	1
 accused	1
+melts	1
 milestone	1
 fidelity	1
 hands	1
@@ -2276,6 +2315,7 @@ nicely	2
 handy	1
 paintings	1
 members	2
+all	35
 crap	1
 export	3
 houses	3
@@ -2284,6 +2324,8 @@ yields	2
 saas	1
 speed	3
 lynch	1
+at	41
+as	52
 leverage	1
 game	22
 interacting	1
@@ -2299,6 +2341,7 @@ googlecache	1
 color	2
 am	1
 privilege	1
+an	46
 ac	1
 yao	1
 ad	4
@@ -2327,10 +2370,12 @@ qhd	1
 inclusive	1
 activate	3
 tandem	1
+of	59
 rumours	1
 snapchat	2
 button	5
 unworkable	1
+on	56
 ok	1
 ol	1
 activities	2
@@ -2344,6 +2389,7 @@ os	5
 aaa	1
 maybe	1
 commitment	1
+or	40
 done	6
 missions	1
 faked	1
@@ -2359,9 +2405,9 @@ pc	14
 month	8
 delay	3
 comment	2
-accumulate	1
-on-board	1
 small	7
+on-board	1
+accumulate	1
 warfare	1
 wisely	1
 fastest	4
@@ -2385,6 +2431,7 @@ quarters	2
 shipped	1
 on-the-go	1
 gartner	1
+me	3
 published	4
 situation	4
 completed	2
@@ -2414,6 +2461,7 @@ studies	2
 chinese	4
 caused	1
 love	4
+more	49
 trail	1
 age	3
 kb	1
@@ -2430,8 +2478,8 @@ tablets	4
 preorder	1
 omega	2
 matching	1
-lg	1
 settled	1
+lg	1
 la	1
 low-	1
 dominates	1
@@ -2459,16 +2507,19 @@ achieved	1
 interchangeable	1
 crazy	2
 partners	2
+if	38
 diamond	1
 tunnels	1
 shopgoodwill	1
 engram	1
-ads	4
 spent	5
+ads	4
 less	13
 resonators	1
 statute	1
+is	58
 those	25
+it	56
 ilk	1
 iv	1
 importantly	1
@@ -2480,6 +2531,7 @@ smash	1
 im	1
 customers	6
 macroscopic	1
+in	59
 know	13
 inclusion	2
 spend	3
@@ -2524,14 +2576,15 @@ haters	1
 place	12
 serious	6
 narratives	1
+how	24
 international	4
 high-performance	1
 journey	2
 upgrading	1
 grabs	2
 hpc	1
-stripe	1
 originating	1
+stripe	1
 grace	1
 pure	1
 contactless	1
@@ -2541,12 +2594,13 @@ outdoors	1
 hot	3
 emanuel	3
 nearby	3
+we	37
 abandoned	1
 owns	2
 analysts	1
 conversion	1
-give	7
 choice	6
+give	7
 front-end	1
 events	3
 hardly	1
@@ -2584,11 +2638,13 @@ park	1
 previous	3
 descendants--the	1
 front	2
+us	18
 speaks	1
 ut	1
 suggested	4
 weeks	6
 biometrics	1
+up	37
 field	2
 enterprises	2
 artists	1
@@ -2633,6 +2689,7 @@ toughest	1
 text	6
 sp	1
 state-owned	1
+so	34
 impression	1
 mysteries	1
 pale	1
@@ -2663,6 +2720,7 @@ trade	3
 volusia	1
 signal	1
 gundotra	1
+re	24
 crysis	1
 brand-new	1
 shun	1
@@ -2714,16 +2772,17 @@ energetic	1
 next-gen	2
 whether	11
 city	3
+course	6
 expect	4
 spokesperson	1
-course	6
 open	11
+are	51
 lactate	1
 page	6
 alienware	1
+card-less	1
 describe	2
 clarify	1
-card-less	1
 rescaled	1
 shelf	1
 essay	1
@@ -2793,6 +2852,7 @@ signed	2
 speak	2
 haven	3
 leveling	1
+should	17
 point	14
 inflatability	1
 protagonist	1
@@ -2845,6 +2905,7 @@ gotchas	1
 wading	1
 philosophical	1
 specific	10
+have	48
 excess	2
 graders	1
 beneficial	2
@@ -2916,6 +2977,7 @@ hashtag	1
 evans	1
 attracting	1
 disproportionately	1
+few	18
 turnaround	1
 fee	2
 purchased	1
@@ -2936,6 +2998,7 @@ behavior	3
 justify	1
 webdav	1
 secondary	1
+made	23
 net	1
 trilogy	2
 nes	1
@@ -2973,11 +3036,11 @@ having	15
 fastest-growing	1
 tens-of-billions	1
 mastercard	1
-microwatts	1
 designing	2
+microwatts	1
 change	11
-moves	2
 settings	1
+moves	2
 word-processing	1
 lead	5
 precedent	2
@@ -2996,6 +3059,7 @@ watch	5
 notable	1
 fat	2
 yesterday	4
+far	19
 display	3
 fan	2
 rays	1
@@ -3008,9 +3072,10 @@ often	13
 awkwardly	1
 linking	1
 healthier	1
-active	2
 tough	1
+active	2
 blue-chip	1
+make	30
 room	7
 whispers	1
 indication	1
@@ -3058,6 +3123,7 @@ errors	2
 fostering	1
 social	15
 asks	1
+recently	11
 empty	1
 report	4
 carrier	1
@@ -3095,8 +3161,8 @@ distance	3
 rolling	2
 promotional	1
 safeguarding	1
-mobility	1
 built	6
+mobility	1
 identifying	1
 note	5
 mulls	1
@@ -3130,6 +3196,7 @@ plundered	1
 reflects	1
 newest	2
 contains	2
+where	24
 chemicals	1
 indicted	1
 almost	4
@@ -3172,8 +3239,8 @@ expansion	1
 d-orbitals	1
 perceptibly	1
 circle	2
-silicon	4
 requirements	2
+silicon	4
 investment	2
 unfair	1
 touch-screen-controlled	1
@@ -3191,6 +3258,7 @@ major	9
 centrally	1
 slowing	1
 mobile-friendly	1
+into	37
 problem	8
 donation	1
 tended	1
@@ -3248,8 +3316,8 @@ wandering	1
 unlimited	1
 likelihood	1
 originality	1
-slower	3
 fingerprint	1
+slower	3
 terahertz	2
 adventure	1
 strike	1
@@ -3298,9 +3366,9 @@ pre-purchase	1
 eliminating	2
 china	4
 shared	2
+utilised	1
 enabled	1
 orange	1
-utilised	1
 veto	1
 nanometers	1
 places	6
@@ -3323,8 +3391,8 @@ experimenting	1
 quarter	2
 powerpoint-formatted	1
 powers	1
-valid	1
 famous	1
+valid	1
 currencies	1
 nsa	1
 mobisoft	1
@@ -3367,6 +3435,7 @@ admits	1
 cashier	1
 parksassociates	1
 steinback	1
+very	16
 doors	1
 macros	2
 rectangular	1
@@ -3398,10 +3467,12 @@ weren	3
 endpoint	1
 packs	2
 many	21
+not	46
 solid	3
 collectors	1
 nor	1
 collectibles	1
+now	39
 start	9
 satisfaction	1
 qualities	1
@@ -3416,16 +3487,16 @@ fonts	1
 internet-dependent	1
 cells	3
 translation	1
-physics	3
 range	3
+physics	3
 purposes	3
 techniques	2
 valley	2
 manganese	1
 escape	1
 launches	2
-computers	10
 attitude	1
+computers	10
 reopened	1
 upset	1
 genuine	2
@@ -3433,20 +3504,21 @@ finicky	1
 unfinished--before	1
 hypothetical	1
 starting	6
+probably	4
 mind	2
 tuesday	3
 district	1
 aggressive	1
 hpc-specific	1
+watches	1
 billions	3
 paraphrase	1
-watches	1
 formatting	4
 end	15
 longlasting	1
 options	5
-engaging	3
 launched	9
+engaging	3
 authorized	1
 networking	5
 slowly	2
@@ -3457,6 +3529,7 @@ woven	1
 already	20
 tackle	1
 process	10
+really	14
 encrypted	1
 represents	1
 chain	1
@@ -3516,6 +3589,7 @@ oracle	2
 blog	3
 mailbox	1
 magazine	2
+because	25
 controls	3
 flatten	1
 details	6
@@ -3542,8 +3616,8 @@ nic	1
 greatest	2
 replacing	2
 tasks	5
-gates	2
 transistors	5
+gates	2
 surpass	1
 goals	1
 enlarge	1
@@ -3570,6 +3644,7 @@ captive	1
 workforce	1
 insertion	1
 missing	4
+over	27
 free	13
 search	6
 steamboxes	1
@@ -3599,8 +3674,8 @@ computer	11
 typically	3
 poised	2
 fuelband	1
-exhaustion	2
 before	17
+exhaustion	2
 examines	1
 storehouse	1
 discarded	1
@@ -3609,6 +3684,7 @@ keyless	1
 division	1
 interplay	1
 sync	2
+could	27
 locations	5
 fills	1
 desires	2
@@ -3648,6 +3724,7 @@ mike	1
 same	22
 boundary	1
 close	8
+who	26
 sharpness	1
 cabinets	1
 releasing	4
@@ -3659,6 +3736,7 @@ think	12
 gen	3
 odf	1
 shouldn	2
+get	23
 currys	1
 environments	2
 manually	3
@@ -3718,6 +3796,7 @@ off	17
 proposed	1
 arrival	2
 amancio	1
+why	17
 harmonised	1
 off-contract	1
 disapproving	1
@@ -3761,8 +3840,8 @@ prime	2
 sitting	3
 traffic	1
 carolina	1
-thrives	1
 operating	9
+thrives	1
 handing	1
 preceded	1
 poster	1
@@ -3798,8 +3877,8 @@ non-cash	1
 closed	3
 cheaper	4
 radical	1
-similar	11
 cuts	1
+similar	11
 co-op	1
 files	6
 cusp	1
@@ -3858,8 +3937,8 @@ add-on	2
 operate	1
 employs	1
 likes	4
-issues	7
 dust	1
+issues	7
 called	15
 lifestyles	1
 accomplish	1
@@ -3869,11 +3948,13 @@ wax	1
 arma	1
 way	29
 symphony	1
+from	53
 believe	2
 protecting	1
 stage	5
 war	1
 network	14
+was	40
 repackaging	1
 supercomputers	1
 risk	1
@@ -4007,8 +4088,8 @@ transistor	4
 synching	1
 butterflies	1
 scores	2
-electricity	1
 taken	8
+electricity	1
 conference	6
 upscale	1
 reports	6
@@ -4077,8 +4158,10 @@ server	2
 operations	1
 fry	1
 serves	1
+our	25
 quarterly	1
 skype	2
+out	32
 specifically	3
 employees	4
 journalism	1
@@ -4090,6 +4173,7 @@ chunk	1
 fox	1
 via	10
 rosiest	1
+for	59
 doubling	1
 hundred	3
 angry	1
@@ -4108,8 +4192,8 @@ vic	1
 opt	1
 groups	4
 ops	1
-information	12
 preventing	1
+information	12
 subscriptions	2
 compare	2
 fps	1
@@ -4179,6 +4263,7 @@ fortune	3
 workers	2
 magnetoresistance	1
 office-compatible	1
+were	17
 internally	2
 please	1
 secreted	1
@@ -4211,15 +4296,18 @@ company	28
 pentium	1
 word	9
 fighting	1
+even	29
 brush	1
 management	5
 efficient	2
+ever	13
 west	1
 clay	1
 ride	2
 intention	1
 allow	9
 fans	5
+one	42
 timeframe	1
 contained	1
 unjust	1
@@ -4342,8 +4430,8 @@ public	7
 coincide	1
 hong	1
 transactions	1
-leakage	1
 ditch	2
+leakage	1
 anywhere	4
 lcd	2
 apache	1
@@ -4376,8 +4464,8 @@ economics	1
 kirk	1
 co-counsel	1
 day	14
-fast	5
 prefer	3
+fast	5
 extending	1
 large	6
 governance	1
@@ -4477,11 +4565,12 @@ antenna	1
 distribution	1
 benchmarks	1
 http	1
+will	47
 auto	2
 heading	1
+virtual	4
 shore	1
 nikesh	1
-virtual	4
 home	7
 shulaker	1
 getting	9
@@ -4583,8 +4672,8 @@ bits	2
 speculative	1
 zero-sum	1
 imperceptible	1
-building	3
 actively	1
+building	3
 gives	6
 buildup	1
 task	2
@@ -4602,6 +4691,7 @@ boxed	1
 wife	1
 tips	2
 innovations	1
+also	39
 shout	1
 hosted	1
 hearts	2
@@ -4681,7 +4771,9 @@ plaintiff	1
 cryogenic	2
 vibrating	1
 back	23
+come	14
 seen	6
+seem	4
 uta	1
 material	4
 seek	1
@@ -4697,8 +4789,8 @@ defend	2
 gestures	1
 coo	2
 com	5
-nerves	1
 turbine	1
+nerves	1
 estarland	1
 supposed	1
 download	3
@@ -4706,8 +4798,8 @@ ended	2
 undertaken	1
 smartwatch	1
 meantime	2
-science	3
 hindered	1
+science	3
 nevertheless	1
 resilient	1
 encrypt	1
@@ -4733,8 +4825,8 @@ lifting	1
 english	2
 ltd	2
 neutron	1
-shaped	1
 profitability	1
+shaped	1
 animations	1
 generate	3
 packed	2
@@ -4863,6 +4955,7 @@ afforded	1
 cache	1
 cases	2
 remarkably	1
+let	9
 characteristics	1
 return	2
 stored	7
@@ -4880,8 +4973,8 @@ hard-core	1
 neurotics	1
 broadband	1
 radio	1
-stores	4
 cash-	1
+stores	4
 folded	1
 allowed	2
 llp	1
@@ -4995,15 +5088,15 @@ introduction	1
 review	3
 peak	2
 inbox	1
-anderson	1
 mannered	1
+anderson	1
 exploitation	1
 mac	3
 ecoystems	1
 magnetoelectric	1
 leave	3
-write	3
 debate	1
+write	3
 unveil	1
 relationships	1
 man	1
@@ -5011,6 +5104,7 @@ checking	4
 mao	1
 clouds	1
 adoption	3
+may	24
 max	2
 personalisation	1
 organizations	1
@@ -5023,6 +5117,7 @@ disintegrate	1
 retailers	3
 gump	1
 lagging	1
+what	29
 gaana	1
 exists	3
 gains	3
@@ -5035,8 +5130,8 @@ studio	1
 wonderlands	1
 on-chip	1
 successor	1
-darkest	1
 fiscal	1
+darkest	1
 careful	1
 least	17
 revealed	4
@@ -5046,6 +5141,7 @@ splitting	1
 bigflix	1
 distressing	1
 balance	1
+would	24
 unlike	1
 future	17
 legendary	2
@@ -5142,8 +5238,8 @@ confirmation	1
 buy-in	1
 superpowers	1
 fully	4
-thoughts	4
 limit	1
+thoughts	4
 animals	2
 forcing	1
 password-protect	1
@@ -5219,6 +5315,7 @@ in-game	2
 being	21
 terror	1
 tvs	2
+actually	13
 hoodwinked	1
 fraud	1
 genuinely	2
@@ -5230,6 +5327,7 @@ prettier	2
 joanna	1
 sniping	1
 participation	1
+when	34
 societal	1
 investigation	2
 grounds	2
@@ -5271,8 +5369,8 @@ fabricating	1
 withdrew	1
 japan	1
 clocked	1
-continuing	2
 santa	2
+continuing	2
 extent	1
 inability	1
 seemed	5
@@ -5331,8 +5429,8 @@ dot	1
 wearability	1
 nature	2
 drop-down	1
-option	5
 signature	1
+option	5
 kinect-less	1
 books	2
 going	13
@@ -5433,6 +5531,7 @@ connections	4
 fallout	1
 follow	3
 collapse	1
+however	16
 capitalization	1
 alternative	8
 kids	1
@@ -5526,6 +5625,7 @@ awkward	2
 topping	1
 did	11
 bargain	2
+without	19
 exit	1
 concrete	2
 shall	1
@@ -5539,6 +5639,7 @@ ratings	1
 broadcasts	1
 cross	1
 reaction	2
+might	20
 budget	2
 collaboration	3
 attest	1
@@ -5606,8 +5707,8 @@ civilians	1
 much-hyped	1
 cooling	3
 power	15
-reduction	1
 tack	1
+reduction	1
 website--although	1
 magnetics	1
 alternating	1
@@ -5630,6 +5731,7 @@ perhaps	7
 filter	1
 instagram	3
 scratches	1
+other	34
 privately	1
 direction	3
 crown	2

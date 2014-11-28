@@ -1,0 +1,6 @@
+computer	0	0	10
+games	1	10	10
+smart_phone	2	20	10
+social	3	30	10
+office	4	40	10
+game_console	5	50	10
