@@ -17,7 +17,7 @@ public class Classifier {
 			
 			if(args.length == 1){
 				inFilePath = args[0];
-				trainingDataRoot = basePath+"/training_data";//default training data root, not suitable for running in eclipse, relative path problem
+				trainingDataRoot = basePath+"/Release/training_data";//default training data root, not suitable for running in eclipse, relative path problem
 			}else{
 				inFilePath = args[1];
 				trainingDataRoot = args[0];
