@@ -13,27 +13,45 @@ import java.util.List;
 import java.util.Map.Entry;
 
 /**
- * This class reads the matrix file and then compute the information gain accordingly
- * @author zfang6
+ * This class reads the matrix file and then compute the information gain accordingly.
  *
+ * @author zfang6
  */
 public class CalculateIG {
+	
 	private int categoryNum, totFileNum;
+	
+	/** The num_file_in_one_cat. */
 	private ArrayList<Integer> num_file_in_one_cat = new ArrayList<Integer>();
+	
+	/** The matrix. */
 	private HashMap<String, ArrayList<Short>> matrix = new HashMap<String, ArrayList<Short>>();
+	
+	/** The info_gain. */
 	private Hashtable<String, Double> info_gain = new Hashtable<String, Double>();
+	
+	/** The ig path. */
 	private String igPath;//path to store the IG
 	
 	/**
-	 * 
-	 * @param matrixPath file path that stores the matrix
+	 * Instantiates a new calculate ig with word count matrix of all training files , category map and an output path
+	 * to store the calculated information gain.
+	 *
+	 * @param matrixPath file path that stores the word count matrix
 	 * @param catMap file path that stores category map
+	 * @param igPath the ig path to store the output information gain.
 	 */
 	public CalculateIG(String matrixPath, String catMap, String igPath){
 		this.igPath = igPath;
 		initMatrix(matrixPath, catMap);
 	}
 
+	/**
+	 * Inits the matrix.
+	 *
+	 * @param matrixPath the matrix path
+	 * @param catMap the cat map
+	 */
 	private void initMatrix(String matrixPath, String catMap){
 		File matrixFile = new File(matrixPath);
 		File catFile = new File(catMap);
@@ -73,6 +91,12 @@ public class CalculateIG {
 			e.printStackTrace();
 		}
 	}
+	
+	/**
+	 * Calculate the information gain for each word, and store the result in document.
+	 * 
+	 * @return the ig
+	 */
 	public void getIG(){
 		double entropy = Math.log(categoryNum);
 		Iterator<Entry<String, ArrayList<Short>>> iter = matrix.entrySet().iterator();
@@ -115,6 +139,9 @@ public class CalculateIG {
 		//obj.getIG();
 	}
 	
+	/**
+	 * write the information gain map into file.
+	 */
 	public void write2File(){
 		try{    
 			File file = new File(igPath);

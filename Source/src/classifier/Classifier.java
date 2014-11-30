@@ -3,7 +3,18 @@ package classifier;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * The Class Classifier.
+ */
 public class Classifier {
+	
+	/**
+	 * The main method. Accept one or two arguments. <training data path> <file to be classified>.
+	 * The corresponding category of the input file will be displayed in console.
+	 *
+	 * @param args the arguments
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 */
 	public static void main(String [] args) throws IOException{
 		//2 arguments accepted, training data path and user input file path
 		if(args.length < 1){

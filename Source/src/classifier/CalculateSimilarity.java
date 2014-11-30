@@ -9,13 +9,35 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
+/**
+ * The Class CalculateSimilarity. Using the vector matrix and user input file vector to calculate the similarity
+ * between two files. Larger cos value means higher similarity.
+ */
 public class CalculateSimilarity {
+	
+	/** The in doc vector. */
 	private ArrayList<Double> inDocVector = new ArrayList<Double>();
+	
+	/** The vector matrix. */
 	private ArrayList<ArrayList<Double>> vectorMatrix = new ArrayList<ArrayList<Double>>();
+	
+	/** The similarity. */
 	private HashMap<Integer,Double> similarity = new HashMap<Integer,Double>();
+	
+	/** The cat map. */
 	private HashMap<Integer, String> catMap = new HashMap<Integer, String>();
+	
+	/** The start index of cat. */
 	private ArrayList<Integer> startIndexOfCat = new ArrayList<Integer>();
 	
+	/**
+	 * Instantiates a new calculate similarity by reading vector matrix from vectorMatrixPath and input file
+	 * vector from inFileVectorPath.  
+	 *
+	 * @param vectorMatrixPath the vector matrix path that contains vectors for all training files.
+	 * @param inFileVectorPath the in file vector path that contains vector for the file to be classified
+	 * @param catMapPath the cat map path that store the mapping relationship between matrix rows and file names.
+	 */
 	public CalculateSimilarity(String vectorMatrixPath, String inFileVectorPath, String catMapPath){
 		try{
 			BufferedReader bf = new BufferedReader(new FileReader(vectorMatrixPath));
@@ -55,7 +77,10 @@ public class CalculateSimilarity {
 		}
 	}
 	
-	//classify the document
+	/**
+	 * classify the document. By calculating the cos value between input file and all training files, we select the 10% highest 
+	 * cos values, and see the category that most files belongs to which it the possible result.
+	 */
 	public void classify(){
 		for(int i=0; i<vectorMatrix.size(); i++){
 			similarity.put(i, cos(inDocVector, vectorMatrix.get(i)));
@@ -92,7 +117,13 @@ public class CalculateSimilarity {
 		
 	}
 	
-	//calculate the cos
+	/**
+	 * calculate the cos.
+	 *
+	 * @param v1 the v1
+	 * @param v2 the v2
+	 * @return the double
+	 */
 	private double cos(ArrayList<Double> v1, ArrayList<Double> v2) {
 		 double res = 0.0;
 		 double mul = 0.0;
@@ -108,6 +139,12 @@ public class CalculateSimilarity {
 		 return res;
 	}
 	
+	/**
+	 * Category belongs to.
+	 *
+	 * @param fileIndex the file index
+	 * @return the int
+	 */
 	private int categoryBelongsTo(int fileIndex){
 		for(int i=0; i<startIndexOfCat.size(); i++){
 			if(i == startIndexOfCat.size() -1)

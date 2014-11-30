@@ -14,16 +14,32 @@ import java.util.Map.Entry;
 import java.util.Set;
 
 /**
- * Build word count matrix and also total word count of each file(store in a separate configuration file)
- * @author zfang6
+ * Build word count matrix and also total word count of each file(store in a separate configuration file).
  *
+ * @author zfang6
  */
 public class BuildWordCountMatrix {
+	
+	/** The file name map. */
 	private Hashtable<String, Integer> categoryMap, fileNameMap;//map the file names and categories to integers
+	
+	/** The output path. */
 	private String trainingDataPath, outputPath;
+	
+	/** The word count set. */
 	private ArrayList<SingleFileWordCount> wordCountSet;//store the word count for all files
+	
+	/** The file num in category. */
 	private ArrayList<Integer> fileNumInCategory;//number of files in each category
 	
+	/**
+	 * Build word count matrix.
+	 * Row: the occurrences of one word in each file
+	 * Column: all training files
+	 *
+	 * @param trainingDataPath the training data root folder path
+	 * @param outputPath the output path to store the matrix
+	 */
 	public BuildWordCountMatrix(String trainingDataPath, String outputPath){
 		this.trainingDataPath = trainingDataPath;
 		this.outputPath = outputPath;
@@ -33,7 +49,9 @@ public class BuildWordCountMatrix {
 		fileNumInCategory = new ArrayList<Integer>();
 	}
 	
-	//build the matrix and store the mapping relationships to configuration file
+	/**
+	 * build the matrix and store the mapping relationships to configuration file.
+	 */
 	public void buildMatrix(){
 		File rootFolder = new File(trainingDataPath);
 		//TODO: here I assume the file hierarchy is valid, to be refactored
@@ -87,7 +105,9 @@ public class BuildWordCountMatrix {
 		
 	}
 	
-	//build matrix by word count of each file
+	/**
+	 * build matrix by word count of each file
+	 */
 	private void buildWordMatrix(){
 		HashMap<String, ArrayList<Integer>> matrix = new HashMap<String, ArrayList<Integer>>();//key: Word; Value: Occurrences in each file
 		//TODO: please test the matrix using some test files
@@ -143,6 +163,12 @@ public class BuildWordCountMatrix {
 		printList(wordNumInFileList,wordNumPath);
 	}
 	
+	/**
+	 * Prints the matrix.
+	 *
+	 * @param matrix the matrix
+	 * @param matrixPath the matrix path
+	 */
 	private void printMatrix(HashMap<String, ArrayList<Integer>> matrix, String matrixPath){
 		try{
 			File file = new File(matrixPath);
@@ -172,6 +198,12 @@ public class BuildWordCountMatrix {
 		}
 	}
 	
+	/**
+	 * Prints the list.
+	 *
+	 * @param wordNumInFileList the word num in file list
+	 * @param wordNumPath the word num path
+	 */
 	private void printList(ArrayList<Integer> wordNumInFileList, String wordNumPath){
 		try{
 			File file = new File(wordNumPath);

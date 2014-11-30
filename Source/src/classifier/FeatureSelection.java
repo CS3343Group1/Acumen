@@ -13,10 +13,24 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Map.Entry;
 
+/**
+ * The Class FeatureSelection. Try to select some feature words that can be useful for classify document categories.
+ * By sorting word information gain in descending order, we get the most featured words
+ */
+
 public class FeatureSelection {
 
+	/** The features. */
 	private static ArrayList<Entry<String, Double>> features = new ArrayList<Entry<String, Double>>();//list stores all the selected feature words
 	
+	/**
+	 * Select the top n most featured words. By sorting the calculated information gain from igPath file.
+	 * Output the feature word list to fileStoragePath
+	 *
+	 * @param n the number of feature words you want to select. By default, we select 10% of the total words.
+	 * @param igPath the file path that stores information gain.
+	 * @param fileStoragePath the file path to store the output feature words list.
+	 */
 	public static void featureSelect(int n, String igPath, String fileStoragePath){
 		
 		ArrayList<Entry<String, Double>> sortedList = sortMap(igPath);
@@ -30,7 +44,12 @@ public class FeatureSelection {
 		writeFeatureFile(fileStoragePath);
 	}
 	
-	//sort map according to the value
+	/**
+	 * sort map according to the value
+	 *
+	 * @param igPath the ig path
+	 * @return the array list
+	 */
 	private static ArrayList<Entry<String, Double>> sortMap(String igPath){
 		Hashtable<String, Double> IGMap = new Hashtable<String, Double>();
 	
@@ -75,6 +94,11 @@ public class FeatureSelection {
 		return sortedList;
 	}
 	
+	/**
+	 * Write feature file.
+	 *
+	 * @param fileStoragePath the file storage path
+	 */
 	private static void writeFeatureFile(String fileStoragePath){
 		try{
 			File file=new File(fileStoragePath);

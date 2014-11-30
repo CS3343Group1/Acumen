@@ -1,0 +1,60 @@
+All-graphene_computer_chip.txt	0
+Cryogenic_on-chip_quantum_electron_cooling_leads_towards_computers.txt	1
+Google_begins_developing_its_own.txt	2
+Magnetic_materials.txt	3
+New_extreme_computer_chip.txt	4
+Orbital_computing.txt	5
+Overclocking_Nvidia_GTX_970.txt	6
+Supercomputer_stagnation.txt	7
+first_carbon_nanotube_computer.txt	8
+future_wearable_computers.txt	9
+Assassin's Creed Unity DLC Pass Includes a New 2.5D Game Set in China.txt	10
+Call of Duty Lawsuit_Activision Brands Ex-Panamanian Dictator's Claims as "Frivolous".txt	11
+Delay for Final Chapter of Dark Souls 2 DLC Trilogy.txt	12
+Destiny Players Discover Treasure Cave.txt	13
+Free Ultra Street Fighter 4 Omega Mode Update Gives Your Favorite Characters New Moves.txt	14
+ISIS Used GTA 5 in a Recruitment Video -- Report.txt	15
+P.T.'s Ghost Is a Nightmarish Weapon in Metal Gear Solid 5.txt	16
+Rockstar 'Leak' Hints at GTA 5 First-Person Mode.txt	17
+Watch Dogs' Mixed Reception Was Similar to Original Assassin's Creed's.txt	18
+Watch Purist Arena FPS Toxikk's Gameplay Reveal Trailer.txt	19
+BlackBerry_Passport_clears_global_customs_this Wednesday.txt	20
+Google's_Android_L_will_automatically_protect_your_data.txt	21
+Google's_Android_Silver_program_may_have_hit_an_iron_wall.txt	22
+How_communications_tech_is_keeping_Europe_safe.txt	23
+Misplace_your_Tesla_Model_S_key_Just_whip_out_your_iPhone.txt	24
+Mobile_payments-Why_a_mobile_phone_needs_to_be_more_than_a_fat_credit_card.txt	25
+Phones_4u-2,400_staff_set_to_lose_jobs_as_mobile_phone_retailer_shuts_up_shop.txt	26
+Spotify_finally_brings_free_streaming_to_Windows_Phone.txt	27
+Why_Apple_Pay_is_a_really,really_big_deal_for,well,everyone.txt	28
+iPhone_6_Plus_awarded_best_LCD_display_ever_but_still_loses_out_to_Galaxy_Note_4.txt	29
+Cloak_anti-social_app_helps_you_avoid_your_friends.txt	30
+Cracking_the_Code_of_the_Family_Network.txt	31
+Facebook_Can_Now_Deliver_Ads_to_Almost_Any_App.txt	32
+Facebook_Will_Soon_Detect_What_You_are_Watching_and_Listening_To.txt	33
+How_Facebook_Can_Make_Money_From_Your_Gossip.txt	34
+How_Foursquare_Plans_to_Break_Its_App_Without_Enraging_Users.txt	35
+Social_Engagement_vs_Social_Connections-The_Missing_Link_in_the_Fitness_Gadget_Equation.txt	36
+The_Next_Big_Thing_You_Missed-A_Social_Network_That_Could_Truly_Reform_Our_Schools.txt	37
+Why_Facebook_Spent_a_Year_Learning_to_Listen_in_on_Your_TV_Shows.txt	38
+Why_Google+_Should_Give_Up_Its_Battle_Against_Facebook.txt	39
+7_things_you_ maynot_know_about_Microsoft_Office.txt	40
+Australia_mulls_requiring_OpenDocument_Format_compatibility.txt	41
+Do_You_Really_Need_Microsoft_Office_Anymore.txt	42
+Forced_off_mobile_Office.txt	43
+Google_Docs_and_Sheets_for_mobile_mark_a_new_low.txt	44
+Google_completes_its_office_suite_for_iOS.txt	45
+Kingsoft_software_to_capitalise_on_Microsoft.txt	46
+Microsoft_launches_Office_2013_software_suite.txt	47
+Microsoft_slow_to_fix_Office_2013_Click.txt	48
+Study_Despite_bright_shiny_rivals_good_old_Office_still_rules_at_work.txt	49
+Analyst_Sony_Could_Come_To_Completely_Dominate_Console_Space.txt	50
+Console_gaming_is_dead_-_everything_good_is_happening_on_PC_right_now.txt	51
+Five_Best_Places_to_Buy_Used_Games_and_Consoles.txt	52
+Microsoft_Launches_Its_Xbox_One_Gaming_Console_In_India.txt	53
+Microsoft_delays_launch_of_its_Xbox_One_console_in_China.txt	54
+Microsoft_offers_$150_Kinect,_but_does_anyone_actually_want_one.txt	55
+Our_(Least)_Favourite_Nintendo_Handheld_Gaming_Consoles_Over_the_Years.txt	56
+Parks_Associates_Connected_Gaming_Console_Owners_Frequently_Access_Non-Gaming_Online_Content.txt	57
+Retail_Hallucinations_And_The_Pointlessness_Of_Owning_A_PlayStation_4_or_Xbox_One.txt	58
+Syber's_Vapor_Xtreme_gaming_console_to_ship_with_Nvidia_GeForce_GTX_980_graphics_card.txt	59

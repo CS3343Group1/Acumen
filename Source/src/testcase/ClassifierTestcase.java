@@ -48,10 +48,12 @@ public class ClassifierTestcase {
 
 	@Test
 	public void MainTest2() {
+		System.out.println("asdfasdf");
 		try {
 			String [] args = {"./Release/training_data/", "./testdata/systemTestInput.txt"};
 			c.main(args);
 			String x = getOutput().trim();
+			
 			assertEquals("Belongs to computer",getOutput().trim());
 		} catch (Exception e) {
 			e.printStackTrace();

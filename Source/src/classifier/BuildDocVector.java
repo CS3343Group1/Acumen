@@ -12,19 +12,33 @@ import java.util.Iterator;
 import java.util.Map.Entry;
 import java.util.Vector;
 
+/**
+ * The Class BuildDocVector. Build vector for one training file.
+ */
 public class BuildDocVector {
 
-	 private ArrayList<String> features;//store feature words
-	 private int len;//number of feature words
-	 private String featurePath;//feature file path
-	 private String vectorPath;//document vector storage file path
-	 private String matrixPath;//training data
-	 private String wordNumListPath;//word number in each file
-	 private ArrayList<ArrayList<Double>> dv;//key: document name, value: doc vector before normalization
-	 private HashMap<String, ArrayList<Short>> matrix;
-	 private ArrayList<Integer> wordNumInFileList;
-	 private double [] sqrSum;
+ 	private ArrayList<String> features;//store feature words
+ 	private int len;//number of feature words
+ 	private String featurePath;//feature file path
+ 	private String vectorPath;//document vector storage file path
+ 	private String matrixPath;//training data
+ 	private String wordNumListPath;//word number in each file
+ 	private ArrayList<ArrayList<Double>> dv;//key: document name, value: doc vector before normalization
+ 	/** The matrix. */
+ 	private HashMap<String, ArrayList<Short>> matrix;
+ 	/** The word num in file list. */
+ 	private ArrayList<Integer> wordNumInFileList;
+ 	/** The sqr sum. */
+ 	private double [] sqrSum;
 	 
+	/**
+	 * Instantiates a new builds the doc vector.
+	 *
+	 * @param matrixPath the matrix path
+	 * @param wordNumListPath the word num list path
+	 * @param featurePath the feature path
+	 * @param vectorPath the vector path
+	 */
 	public BuildDocVector(String matrixPath, String wordNumListPath, String featurePath, String vectorPath){
 		this.matrixPath = matrixPath;
 		this.wordNumListPath = wordNumListPath;
@@ -38,7 +52,9 @@ public class BuildDocVector {
 		initFeatures();
 	}
 
-	//load all the feature words from feature file
+	/**
+	 * load all the feature words from feature file
+	 */
 	private void initFeatures(){
 		try{
 			BufferedReader bfReader = new BufferedReader(new FileReader(this.featurePath));
@@ -79,7 +95,9 @@ public class BuildDocVector {
 		}
 	}
 	
-	//build the document vector
+	/**
+	 * build the document vector according to the feature word, normalize vector and store in files
+	 */
 	public void buildVector(){
 		int totFileNum = wordNumInFileList.size();
 		for(int i=0; i<totFileNum; i++){//for each file
@@ -105,7 +123,9 @@ public class BuildDocVector {
 		normalizeVector();
 	}
 	
-	//normalize vector and store in files
+	/**
+	 * normalize vector and store in files
+	 */
 	private void normalizeVector(){
 		Iterator<ArrayList<Double>> iter = dv.iterator();
 		File vectorFile = new File(this.vectorPath);

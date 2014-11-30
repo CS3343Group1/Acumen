@@ -21,7 +21,8 @@ import java.util.Hashtable;
 public class BuildDictionary {
 	
 	/**
-	 * 
+	 * Build word list dictionary, common word dictionary which contains useless words like "a", "the" and words that appears in all the training files
+	 * Total word dictionary which contains all the other words. 
 	 * @param commonDictPath  path to store the common dictionary
 	 * @param totalDictPath  Path to store the total dictionary
 	 * @param wordCountFileList a set of tables which contains all the words and their occurrences in each file
@@ -57,6 +58,14 @@ public class BuildDictionary {
 		writeToFile(commonDictPath, totalDictPath, comWordSet, totalWords);
 	}
 	
+	/**
+	 * Write to file.
+	 *
+	 * @param commonDictPath the common dict path
+	 * @param totalDictPath the total dict path
+	 * @param comWordSet the com word set
+	 * @param totalWords the total words
+	 */
 	private static void writeToFile(String commonDictPath, String totalDictPath, HashSet<String> comWordSet, HashMap<String, Integer> totalWords){
 		File comDictFile = new File(commonDictPath);
 		File totDictFile = new File(totalDictPath);

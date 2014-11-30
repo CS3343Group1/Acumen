@@ -10,16 +10,40 @@ import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.Iterator;
 
+/**
+ * The Class BuildVectorForInputFile: build the file vector for input file.
+ */
 public class BuildVectorForInputFile {
 
-	 private ArrayList<String> features;//store feature words
-	 private String inFile;
-	 private String featurePath;//feature file path
-	 private String vectorPath;//document vector storage file path
-	 private String matrixPath;//training data
-	 private ArrayList<Double> dv;//key: document name, value: doc vector before normalization
-	 private HashMap<String, ArrayList<Short>> matrix;
+	 /** The features. */
+ 	private ArrayList<String> features;//store feature words
 	 
+ 	/** The in file. */
+ 	private String inFile;
+	 
+ 	/** The feature path. */
+ 	private String featurePath;//feature file path
+	 
+ 	/** The vector path. */
+ 	private String vectorPath;//document vector storage file path
+	 
+ 	/** The matrix path. */
+ 	private String matrixPath;//training data
+	 
+ 	/** The dv. */
+ 	private ArrayList<Double> dv;//key: document name, value: doc vector before normalization
+	 
+ 	/** The matrix. */
+ 	private HashMap<String, ArrayList<Short>> matrix;
+	 
+	/**
+	 * Instantiates a new builds the vector for input file.
+	 *
+	 * @param inFile the file to be classified
+	 * @param matrixPath the word count matrix path
+	 * @param featurePath the feature word list path
+	 * @param vectorPath the path to store vector of input file
+	 */
 	public BuildVectorForInputFile(String inFile, String matrixPath, String featurePath, String vectorPath){
 		this.inFile = inFile;
 		this.matrixPath = matrixPath;
@@ -31,7 +55,9 @@ public class BuildVectorForInputFile {
 		initFeatures();
 	}
 
-	//load all the feature words from feature file
+	/**
+	 * load all the feature words from feature file.
+	 */
 	private void initFeatures(){
 		try{
 			BufferedReader bfReader = new BufferedReader(new FileReader(this.featurePath));
@@ -61,7 +87,9 @@ public class BuildVectorForInputFile {
 		}
 	}
 	
-	//build the document vector
+	/**
+	 * build the document vector.
+	 */
 	public void buildVector(){
 		SingleFileWordCount sf = new SingleFileWordCount(null,inFile,null);
 		Hashtable<String, Integer> table = sf.getCountTable();
@@ -87,6 +115,9 @@ public class BuildVectorForInputFile {
 		write2File();
 	}
 	
+	/**
+	 * Write2 file.
+	 */
 	private void write2File(){
 		File vectorFile = new File(this.vectorPath);
 		try{
