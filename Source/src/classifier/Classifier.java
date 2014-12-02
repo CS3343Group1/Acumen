@@ -28,29 +28,29 @@ public class Classifier {
 			
 			if(args.length == 1){
 				inFilePath = args[0];
-				trainingDataRoot = basePath+"/Release/training_data";//default training data root, not suitable for running in eclipse, relative path problem
+				trainingDataRoot = basePath+"/training_data";//default training data root, not suitable for running in eclipse, relative path problem
 			}else{
 				inFilePath = args[1];
 				trainingDataRoot = args[0];
 				needRetrain = true;
 			}
-			
+
 			//create these directories if not exist
 			File directory;
-			String configRoot = basePath + "/Release/config";
-			String matrixRoot = basePath +"/Release/config/matrix";
+			String configRoot = basePath + "/config";
+			String matrixRoot = basePath +"/config/matrix";
 			directory = new File(matrixRoot);
 			directory.mkdirs();
-			String mapRoot = basePath + "/Release/config/map";
+			String mapRoot = basePath + "/config/map";
 			directory = new File(mapRoot);
 			directory.mkdirs();
-			String vectorRoot = basePath + "/Release/config/vector";
+			String vectorRoot = basePath + "/config/vector";
 			directory = new File(vectorRoot);
 			directory.mkdirs();
-			String dictionaryRoot = basePath + "/Release/config/dictionary";
+			String dictionaryRoot = basePath + "/config/dictionary";
 			directory = new File(dictionaryRoot);
 			directory.mkdirs();
-			String tempRoot = basePath + "Release/config/temp";//store user input file vector
+			String tempRoot = basePath + "/config/temp";//store user input file vector
 			directory = new File(tempRoot);
 			directory.mkdirs();
 			
