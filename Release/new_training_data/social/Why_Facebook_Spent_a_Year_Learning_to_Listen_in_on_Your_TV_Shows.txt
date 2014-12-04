@@ -1,0 +1,29 @@
+If you’re watching TV or listening to music and you feel like discussing it online, Facebook believes, nothing should stand in the way. Not even a few keystrokes.
+
+The social networking giant spent more than a year developing its new audio sampling system, which can listen to a TV show or a song and then automatically mention it in your next Facebook status update. And for Facebook, that’s time well spent.
+
+According to those who built the tool, the aim was to remove every last bit of friction from the way we reference bits of pop culture on the social network. “We really wanted to make it even easier to share music that’s playing or what TV shows you’re watching and make that a very easy part of posting a new story to Facebook,” says Facebook product manager Aryeh Selekman. But this is about more than just your own convenience.
+
+If you can more easily share what you’re watching, Facebook has more leverage in attracting advertisers to its social network. Facebook executives have said they see a big business opportunity at the intersection of TV, music, and the Facebook audience. Television still commands premium rates from advertisers, and one way to nab some of that spending is to turn Facebook into a gathering place for television audiences. Twitter and Tumblr are making their own bid to attract and sell TV viewers, but neither has gone so far as to automatically tag your posts in the way Facebook will soon do.
+
+The Robo-Listener
+Facebook already lets you add structured media tags in other ways. Using a drop-down menu, you can indicate you’re “listening to” or “watching” or “reading” something, and the social network will give you list of suggested shows and songs and other media. All told, more than 5 billion status updates have included this kind of structured data. But the company wanted to go further. Even having to type a few characters of the name of a TV show, before auto-update kicks in, can be enough to pull you away from the experience and deter you from sharing. Ditto for music.
+
+The solution involved audio fingerprinting–listening to several seconds of sound from a song, show, or movie, digitizing it, removing the noise introduced between the audio source and your smartphone microphone, and running the result through a large database of audio fingerprints. The popular smartphone app “Shazam,” launched in 2002 as a dial-in service for regular mobile phones, uses the same basic technique.
+
+THE NEW SYSTEM MAKES A HIGHLY EDUCATED GUESS ABOUT WHAT YOU’RE LISTENING TO BASED ON WHAT IT SOUNDS LIKE.
+
+Facebook’s audio fingerprinting might not be 100 percent reliable, the company says, but it works much better than the company’s previous system, which tended to suggest shows, movies, and music that were popular with the public at large but weren’t necessarily what you were looking for at a particular moment. The new system, by contrast, makes a highly educated guess about what you’re listening to based on what it sounds like. If the guess is wrong, you can still tag your posts in the old way.
+
+According to the company, the accuracy is high enough that Facebook will sometimes make suggestions even before you’ve told it what kind of media you’re looking for. “What we ended up doing is providing this flow where it works from the top level,” says Facebook software engineer Ryan Case. “You could be just typing about what you’re watching and we give an indication we have a suggestion for you, and you can step into the suggestion.”
+
+The system also grabs more detailed information about what you’re doing. When people were inputing TV shows manually, Facebook didn’t ask them which season and episode they were viewing. That would be too much of a burden. Now, that data is included automatically. Previously, music data was limited to a particular band. Now, Facebook shows the specific track and album and includes a 30-second clip.
+
+The Big Shift
+Facebook hasn’t hidden the fact that it sees a huge business opportunity in dovetailing with what you’re watching and listening to. Facebook COO Sheryl Sandberg has told Wall Street she sees a “shift happening” between TV and digital, as tracking companies like Nielsen introduce new ways to readily compare the influence of TV versus digital.
+
+Sandberg has said repeatedly that Facebook wants to better track the indirect and often fuzzy impact of Facebook advertising on real-world spending, a move that would help Facebook better compete for TV advertisers, who are already paying for indirect, hard-to-track, so-called “brand advertising” on TV.
+
+The interplay between Facebook and television doesn’t have to be a zero-sum game. Chatter about TV shows on Facebook builds social bonds that encourage people to keep watching or to start watching in the first place. Facebook could end up growing the pool of TV viewers and ad dollars even as it competes to bring TV advertisers onto Facebook. Television, in turn, could be a boon to Facebook usage as people seek to restore the communal experience that’s been lost as family TV viewing gives way to individual viewing on iPads and smartphones. Facebook offers a way for far-flung viewers of niche, streamed TV shows to gab about their favorite characters and plot twists.
+
+Along the way, there is a lot of money to be made in the economy of distraction. For decades, television has had a lock on that racket. But Facebook just spent a year on a new way to crack it.

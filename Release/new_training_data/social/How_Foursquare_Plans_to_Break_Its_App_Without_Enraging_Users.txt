@@ -1,0 +1,21 @@
+Foursquare is ripping several features, including its vaunted “check-in” button, out of its flagship app and putting them in a new app called Swarm. The bold repositioning got a lot of attention when it was announced Thursday, but there’s been little talk about the crucial steps Foursquare is taking to sell the remake to its loyal user base.
+
+The app split is a smart move, and on trend. The social network’s original app will focus on what it does best–unobtrusively recommending places to go and things to do–while Swarm promises a better-than-ever experience to social butterflies who love the “check-in” button and want to find out who else is nearby. It’s part of a broader trend to disintegrate monolithic social networks into tightly focused apps that are faster and easier to use. Facebook is following this path, taking messaging out of its main app in favor of a dedicated Messenger app. Dropbox, meanwhile, created a dedicated app for photos called Carousel.
+
+Although the end result is apps that are easier to use, the functional unbundling risks alienating longtime users who turn on their smartphones one day to find crucial features missing and simply say “to hell with it.”
+
+Foursquare is doing its darnedest to ensure that doesn’t happen. The company says it has assembled a list of Foursquare users who are the most aggressive about clicking the “check in” button. Each of them will receive a message urging them to install Swarm, where the button is being relocated.
+
+THIS RISKS ALIENATING LONGTIME USERS WHO TURN ON THEIR SMARTPHONES ONE DAY TO FIND CRUCIAL FEATURES MISSING AND SIMPLY SAY ‘TO HELL WITH IT.’
+
+“Our intention here is not to rip the Band-Aid off, but to get people into the right usage pattern,” says Jon Steinback, VP of product experience. “We spent a lot of time planning it and built in a lot of time for users to go through that” transition.
+
+Swarm is expected to be available in a few weeks, and the core Foursquare app isn’t expected to change until summer. But Foursquare wanted to get word of the transition out early, Steinback says. That way, few users of Foursquare will be surprised by the changes.
+
+That education push will continue after Swarm comes out and people install the app. Swarm users will find that their copy of Foursquare will offer to reconfigure itself to focus on local search and discovery. It will also put up special training screens to show them about new functions that are in Swarm but weren’t in Foursquare, like a view of nearby friends.
+
+Meanwhile, non-Swarm Foursquare users will keep using a version of Foursquare that works like it does today–Foursquare classic, if you will. Sometime this summer they’ll lose their “check in” button when a new version of Foursquare, focused on local search and discovery, comes out. Only then will it be clear if Steinback’s team has done a good job of offering targeted education sessions to prepare potentially grumpy Foursquare users.
+
+In the end, Steinback says, Foursquare will be far easier and more intuitive to use as two distinct apps. In other words, it’s bloating apps that gives users headaches, not streamlining them.
+
+“People are used to context shifting on their home screen really readily; it’s a really familiar usage pattern,” says Steinback. “You’re like, ‘this app is for this and this app is for that.’ But [navigating] in an app requires another level of cognitive thought… People might not view the app as having those two purposes.”

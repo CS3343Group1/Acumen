@@ -1,0 +1,23 @@
+Microsoft launches Office 2013 software suite
+Microsoft has launched a new version of its Office software suite.
+Word, Excel, Powerpoint and Outlook have been redesigned to work better with touch-screen-controlled computers.
+They also integrate the firm's Skype video chat facility. Users can add further functions via a new app store.
+The programs account for a major part of Microsoft's earnings. The firm hopes to keep users loyal by offering more powerful features than cheaper online alternatives.
+In the last year the firm's Business Division, which creates the software, generated just under $24bn (£15.2bn), roughly a third of the firm's revenue.
+However, a 4% dip in the US company's most recent quarterly profits was linked to the fact that many consumers had held off buying the older version of the software ahead of the revamp.
+If it proves a success it might also drive sales of new Windows 8 or Windows RT-powered computers, which can take advantage of the applications' improved touch controls.
+Studies suggest users are switching to the systems at a slower rate than they adopted Windows 7 and Windows Vista.
+Microsoft confounded rumours by not releasing a version of the Office software for Apple's iPad tablets. It has also decided not to offer the products on Android devices.
+Cloud storage
+The retooled software offers a touch mode that makes several of its controls bigger so they are more finger-friendly as well as including the ability to swipe and pinch-and-zoom documents. Files can also be viewed in "read mode", which displays them in a format that particularly suits tablets.
+By default, files are saved to the firm's SkyDrive online cloud storage facility, although users can choose to save them on their hard drive if they wish.
+Additional plug-ins are available from a new Office Store. These include the ability to add Twitter functionality to the Outlook email tool and to consult Encyclopaedia Britannica articles from within Word.
+Many of these are free, although US firm Sensei Project Solutions is among the first to charge a fee, for its "task analyser", which is designed to identify problems or missing information in users' documents.
+Subscription bundles
+Consumers can buy the suite for use on one PC for $140 - £110 in the UK - but Microsoft appears to favour a subscription deal for its Office 365 Home Premium edition, which is the focus of the promotional activity on its site.
+This charges $100 (£80) for one year's access on up to five PCs or Macs and bundles in 60 minutes of Skype calls a month as well as more SkyDrive storage.
+The prices mark a discount on the fees the company used to charge for Office, reflecting the competition it faces from the growing popularity of cheap and free alternative applications offered by Google, Zoho, Apache OpenOffice and others.
+"Over the past two years Office has been Microsoft's largest revenue stream," Colin Gillis, senior tech analyst at BGC Partners, told the BBC.
+"But it's more than just sales - it's the glue that keeps users coming to the Windows operating system.
+"It's the one thing that the iPad doesn't have. Microsoft is missing out on revenue by not selling it for Apple's device and at some point they may have to in order to prevent an alternative blossoming - but for now it gives an edge to Windows and the company's own Surface devices."
+A version of the online Office 365 apps for businesses is due for release on 27 February.

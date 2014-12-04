@@ -1,0 +1,9 @@
+Facebook will soon automatically identify the TV shows you’re watching and the music you’re listening to, making it easier to join online discussions involving your latest bit of entertainment.
+
+The move will help Facebook get a leg up on other social networks fighting to push their way into your TV and movie time. Twitter and Yahoo’s Tumblr have touted their networks as vital online hubs for TV and movie fans. But on those networks, inserting your comments into a broader discussion about a particular show isn’t the smoothest of tasks. Typically, it involves identifying a particular hashtag and manually adding it to your comment.
+
+That’s why Facebook is rolling out its new audio fingerprinting tool, detailed on Wednesday with a company blog post. With audio fingerprinting, you needn’t go looking for a hashtag. Instead, you click a button on your Facebook mobile app, it listens to the TV show you’re watching, and then it automatically links your comments to the right online forum–at least in theory. Behind the scenes, Facebook’s servers will do a lot of heavy lifting to match the audio with the right discussion, but to you, the process is seamless–particularly when compared to hashtagging.
+
+The tool isn’t available yet. It will arrive “in the coming weeks” for those using the Facebook iOS or Android app. But once this thing is up and running, it could have a dual effect. In addition to making life easier for Facebookers, it will help the company grab a share of television ad dollars. If people are using Facebook while watching TV, the argument goes, companies should advertise in both places.
+
+For Hunter Walk, a YouTube executive turned venture capitalist, the feature is beneficial on many levels. It’s “good for social streams, good for targeting, good for community building around musicians.” Let’s just hope this thing works.
